@@ -5,7 +5,7 @@
         {
             "type": "Feature",
             "properties": {
-                "level_id": "UUID",
+                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
@@ -15,7 +15,11 @@
                     "type": ""
                 },
                 "door": null,
-                "name": null
+                "name": null,
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -33,12 +37,12 @@
                 ]
             },
             "feature_type": "opening",
-            "id": null
+            "id": "652eb17c-bf44-42aa-aa12-e8512f4b7ee3"
         },
         {
             "type": "Feature",
             "properties": {
-                "level_id": "UUID",
+                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
@@ -48,7 +52,11 @@
                     "type": ""
                 },
                 "door": null,
-                "name": null
+                "name": null,
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -66,12 +74,12 @@
                 ]
             },
             "feature_type": "opening",
-            "id": null
+            "id": "4731ac86-e230-4805-9d8f-5e4ed7b17a53"
         },
         {
             "type": "Feature",
             "properties": {
-                "level_id": "UUID",
+                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
@@ -81,7 +89,11 @@
                     "type": ""
                 },
                 "door": null,
-                "name": null
+                "name": null,
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -99,12 +111,12 @@
                 ]
             },
             "feature_type": "opening",
-            "id": null
+            "id": "95e47bfc-af7f-40d2-8657-739b1e142da8"
         },
         {
             "type": "Feature",
             "properties": {
-                "level_id": "uuid",
+                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
@@ -114,7 +126,11 @@
                     "type": ""
                 },
                 "door": null,
-                "name": null
+                "name": null,
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "MultiLineString",
@@ -132,7 +148,7 @@
                 ]
             },
             "feature_type": "opening",
-            "id": null
+            "id": "4cbbfbd6-c48d-479e-9e47-8e727cb2974c"
         }
     ]
 }

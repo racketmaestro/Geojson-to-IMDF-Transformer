@@ -5,7 +5,7 @@
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
                 "alt_name": null,
                 "category": null,
                 "display_point": {
@@ -18,7 +18,10 @@
                 },
                 "phone": null,
                 "restriction": null,
-                "website": null
+                "website": null,
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -98,7 +101,7 @@
                 ]
             },
             "feature_type": "venue",
-            "id": null
+            "id": "9c7b6566-6450-4d8e-a240-d5219dfa3ebc"
         }
     ]
 }

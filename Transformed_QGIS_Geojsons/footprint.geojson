@@ -5,9 +5,12 @@
         {
             "type": "Feature",
             "properties": {
-                "building_ids": [],
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ],
                 "category": null,
-                "name": null
+                "name": null,
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -163,7 +166,7 @@
                 ]
             },
             "feature_type": "footprint",
-            "id": null
+            "id": "922606fe-cfac-48cd-a8a5-802125e7345d"
         }
     ]
 }

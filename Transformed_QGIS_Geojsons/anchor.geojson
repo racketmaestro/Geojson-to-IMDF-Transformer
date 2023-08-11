@@ -5,8 +5,11 @@
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -16,13 +19,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "422db701-6e4a-44b0-bcda-c3044e27c455"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -32,13 +38,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "a225ac8d-37e8-416e-aa75-7623cf3fb898"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -48,13 +57,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "87af773f-ed30-4936-b3d1-a60a66191923"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -64,13 +76,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "54af97ee-eb0a-42b6-bffa-b52353d8387b"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -80,13 +95,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "566d1f6f-9741-480a-b23f-6e15c0329a8a"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -96,13 +114,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "c61eb7a5-4517-451b-b24a-3cb8986ad174"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -112,13 +133,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "de796deb-1516-4275-a506-3e78d5a6f9f5"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -128,13 +152,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "9c941c28-e7b7-4e8a-9f00-8569cfca4ad1"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -144,13 +171,16 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "cb6b507b-3d11-4aa1-9a90-b91bc2ec0563"
         },
         {
             "type": "Feature",
             "properties": {
-                "address_id": "UUID",
-                "unit_id": "UUID"
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_id": "UUID",
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -160,7 +190,7 @@
                 ]
             },
             "feature_type": "anchor",
-            "id": null
+            "id": "40574512-f8a5-48cb-aa6e-5f5f7b8b246a"
         }
     ]
 }

@@ -5,9 +5,11 @@
         {
             "type": "Feature",
             "properties": {
-                "address_id": "uuid",
+                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
                 "category": "unspecified",
-                "building_ids": [],
+                "building_ids": [
+                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                ],
                 "display_point": {
                     "coordinates": [],
                     "type": ""
@@ -296,7 +298,7 @@
                 ]
             },
             "feature_type": "level",
-            "id": null
+            "id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd"
         }
     ]
 }
