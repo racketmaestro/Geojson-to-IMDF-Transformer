@@ -1,15 +1,14 @@
 {
+    "type": "FeatureCollection",
+    "name": "building",
     "features": [
         {
+            "geometry": null,
             "feature_type": "",
-            "geometry": {
-                "coordinates": [],
-                "type": ""
-            },
             "id": "",
             "properties": {
                 "address_id": "",
-                "building_ids": [],
+                "alt_name": null,
                 "category": "",
                 "display_point": {
                     "coordinates": [],
@@ -18,16 +17,9 @@
                 "name": {
                     "en": ""
                 },
-                "ordinal": "",
-                "outdoor": "",
-                "restriction": null,
-                "short_name": {
-                    "en": ""
-                }
+                "restriction": null
             },
             "type": ""
         }
-    ],
-    "name": "",
-    "type": ""
+    ]
 }

@@ -1,8 +1,10 @@
 {
+    "type": "FeatureCollection",
+    "name": "address",
     "features": [
         {
-            "feature_type": "",
             "geometry": null,
+            "feature_type": "address",
             "id": "",
             "properties": {
                 "address": "",
@@ -13,9 +15,7 @@
                 "province": "",
                 "unit": null
             },
-            "type": ""
+            "type": "Feature"
         }
-    ],
-    "name": "",
-    "type": ""
+    ]
 }

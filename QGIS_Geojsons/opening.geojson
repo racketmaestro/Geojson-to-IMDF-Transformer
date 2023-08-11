@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "opening",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "level_id": "UUID" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 0.140563407384968, 52.174575837884149 ], [ 0.140574233091608, 52.174562442641303 ] ] ] } },
+{ "type": "Feature", "properties": { "level_id": "UUID" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 0.140753224952733, 52.174632278895828 ], [ 0.140766554734021, 52.174613906423858 ] ] ] } },
+{ "type": "Feature", "properties": { "level_id": "UUID" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 0.141780181432751, 52.174899646007162 ], [ 0.141799420542975, 52.174904656911146 ] ] ] } },
+{ "type": "Feature", "properties": { "level_id": "uuid" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 0.139982990651846, 52.17464259747846 ], [ 0.140006130457789, 52.174649214682482 ] ] ] } }
+]
+}

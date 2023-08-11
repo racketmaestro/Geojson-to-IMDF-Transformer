@@ -1,8 +1,13 @@
 {
+    "type": "FeatureCollection",
+    "name": "venue",
     "features": [
         {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
             "feature_type": "",
-            "geometry": null,
             "id": "",
             "properties": {
                 "address_id": "",
@@ -12,14 +17,15 @@
                     "coordinates": [],
                     "type": ""
                 },
+                "hours": "",
                 "name": {
                     "en": ""
                 },
-                "restriction": null
+                "phone": null,
+                "restriction": null,
+                "website": ""
             },
             "type": ""
         }
-    ],
-    "name": "",
-    "type": ""
+    ]
 }

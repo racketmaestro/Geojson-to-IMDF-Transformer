@@ -1,11 +1,13 @@
 {
+    "type": "FeatureCollection",
+    "name": "Anchor",
     "features": [
         {
-            "feature_type": "",
             "geometry": {
-                "coordinates": [],
-                "type": ""
+                "type": "Point",
+                "coordinates": []
             },
+            "feature_type": "",
             "id": "",
             "properties": {
                 "address_id": "",
@@ -13,7 +15,5 @@
             },
             "type": ""
         }
-    ],
-    "name": "",
-    "type": ""
+    ]
 }

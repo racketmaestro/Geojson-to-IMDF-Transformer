@@ -1,15 +1,15 @@
 {
+    "type": "FeatureCollection",
+    "name": "Occupant",
     "features": [
         {
-            "feature_type": "",
-            "geometry": {
-                "coordinates": [],
-                "type": ""
-            },
+            "geometry": null,
+            "feature_type": "Occupant",
             "id": "",
             "properties": {
-                "address_id": "",
+                "address_id": null,
                 "alt_name": null,
+                "anchor_id": "",
                 "category": "",
                 "display_point": {
                     "coordinates": [],
@@ -19,13 +19,12 @@
                 "name": {
                     "en": ""
                 },
-                "phone": null,
+                "phone": "",
                 "restriction": null,
-                "website": ""
+                "website": null,
+                "correlation_id": null
             },
-            "type": ""
+            "type": "Feature"
         }
-    ],
-    "name": "",
-    "type": ""
+    ]
 }

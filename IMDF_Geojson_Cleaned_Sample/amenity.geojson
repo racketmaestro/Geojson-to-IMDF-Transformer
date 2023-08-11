@@ -1,8 +1,12 @@
 {
-    "type": "",
-    "name": "",
+    "type": "FeatureCollection",
+    "name": "amenity",
     "features": [
         {
+            "geometry": {
+                "type": "Point",
+                "coordinates": []
+            },
             "type": "",
             "feature_type": "",
             "id": "",
@@ -17,10 +21,6 @@
                 "phone": null,
                 "unit_ids": [],
                 "website": null
-            },
-            "geometry": {
-                "type": "",
-                "coordinates": []
             }
         }
     ]

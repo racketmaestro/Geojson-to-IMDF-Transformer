@@ -1,27 +1,25 @@
 {
-    "type": "",
-    "name": "",
+    "type": "FeatureCollection",
+    "name": "building",
     "features": [
         {
-            "type": "",
-            "feature_type": "",
+            "geometry": null,
+            "feature_type": "building",
             "id": "",
             "properties": {
-                "accessibility": null,
+                "address_id": "",
                 "alt_name": null,
                 "category": "",
                 "display_point": {
                     "coordinates": [],
                     "type": ""
                 },
-                "level_id": "",
-                "name": null,
+                "name": {
+                    "en": ""
+                },
                 "restriction": null
             },
-            "geometry": {
-                "type": "",
-                "coordinates": []
-            }
+            "type": "Feature"
         }
     ]
 }

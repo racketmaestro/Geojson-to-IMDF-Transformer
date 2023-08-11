@@ -1,30 +1,33 @@
 {
+    "type": "FeatureCollection",
+    "name": "level",
     "features": [
         {
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": []
+            },
             "feature_type": "",
-            "geometry": null,
             "id": "",
             "properties": {
-                "address_id": null,
-                "alt_name": null,
-                "anchor_id": "",
+                "address_id": "",
+                "building_ids": [],
                 "category": "",
                 "display_point": {
                     "coordinates": [],
                     "type": ""
                 },
-                "hours": "",
                 "name": {
                     "en": ""
                 },
-                "phone": "",
+                "ordinal": "",
+                "outdoor": "",
                 "restriction": null,
-                "website": null,
-                "correlation_id": null
+                "short_name": {
+                    "en": ""
+                }
             },
             "type": ""
         }
-    ],
-    "name": "",
-    "type": ""
+    ]
 }

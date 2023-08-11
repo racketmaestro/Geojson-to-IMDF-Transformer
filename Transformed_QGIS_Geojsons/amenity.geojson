@@ -1,0 +1,30 @@
+{
+    "type": "FeatureCollection",
+    "name": "amenity",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "unit_ids": "uuid",
+                "address_id": "uuid",
+                "category": "toilets",
+                "accessibility": null,
+                "alt_name": null,
+                "correlation_id": null,
+                "hours": null,
+                "name": null,
+                "phone": null,
+                "website": null
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.140535295427031,
+                    52.17487278375197
+                ]
+            },
+            "feature_type": "amenity",
+            "id": null
+        }
+    ]
+}
