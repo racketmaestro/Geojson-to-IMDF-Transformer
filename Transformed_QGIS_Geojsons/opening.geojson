@@ -9,10 +9,13 @@
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
-                "category": null,
+                "category": "pedestrian",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.14056882023828798,
+                        52.174569140262726
+                    ],
+                    "type": "Point"
                 },
                 "door": null,
                 "name": null,
@@ -46,10 +49,13 @@
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
-                "category": null,
+                "category": "pedestrian",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.140759889843377,
+                        52.17462309265984
+                    ],
+                    "type": "Point"
                 },
                 "door": null,
                 "name": null,
@@ -83,10 +89,13 @@
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
-                "category": null,
+                "category": "pedestrian",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.141789800987863,
+                        52.17490215145915
+                    ],
+                    "type": "Point"
                 },
                 "door": null,
                 "name": null,
@@ -120,10 +129,13 @@
                 "access_control": null,
                 "accessibility": null,
                 "alt_name": null,
-                "category": null,
+                "category": "pedestrian",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.13999456055481752,
+                        52.17464590608047
+                    ],
+                    "type": "Point"
                 },
                 "door": null,
                 "name": null,

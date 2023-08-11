@@ -7,12 +7,14 @@
             "properties": {
                 "unit_ids": "uuid",
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
-                "category": "toilets",
+                "category": "Restroom",
                 "accessibility": null,
                 "alt_name": null,
                 "correlation_id": null,
                 "hours": null,
-                "name": null,
+                "name": {
+                    "en" : "Toilet"
+                },
                 "phone": null,
                 "website": null,
                 "building_ids": [

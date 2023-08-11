@@ -15,13 +15,13 @@
                     "type": ""
                 },
                 "name": {
-                    "en": ""
+                    "en": "1"
                 },
-                "ordinal": null,
+                "ordinal": 1,
                 "outdoor": null,
                 "restriction": null,
                 "short_name": {
-                    "en": ""
+                    "en": "1"
                 }
             },
             "geometry": {

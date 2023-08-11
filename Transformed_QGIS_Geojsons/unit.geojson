@@ -5,14 +5,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "C Wards",
+                "name": {
+                    "en": "C Wards"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.1411601889983696,
+                        52.174650033126404
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -75,14 +80,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Haematology",
+                "name": {
+                    "en": "Haematology"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.14277698826355134,
+                        52.174591737721656
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -125,14 +135,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Radiotherapy",
+                "name": {
+                    "en": "Radiotherapy"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.14299382710748068,
+                        52.174315616955575
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -175,14 +190,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "NCCU",
+                "name": {
+                    "en": "NCCU"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.14185848684426114,
+                        52.17481637783359
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -225,14 +245,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Chapel",
+                "name": {
+                    "en": "Chapel"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.13997509308325037,
+                        52.17470446845963
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -283,14 +308,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Burger King",
+                "name": {
+                    "en": "Burger King"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.13962551168261372,
+                        52.175318333762185
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -333,14 +363,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "The Spice of Life",
+                "name": {
+                    "en": "The Spice of Life"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.1398455625195641,
+                        52.175378470525324
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -383,14 +418,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Starbucks",
+                "name": {
+                    "en": "Starbucks"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.13967553658269435,
+                        52.175137293163324
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -445,14 +485,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "M&S Simply Food",
+                "name": {
+                    "en": "M&S Simply Food"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.13995538845334424,
+                        52.174827875465795
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -511,14 +556,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Costa Coffee",
+                "name": {
+                    "en": "Costa Coffee"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.1402323378204071,
+                        52.17475653309448
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
@@ -585,14 +635,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "D Wards",
+                "name": {
+                    "en": "D Wards"
+                },
                 "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.14023523239999566,
+                        52.17447050889791
+                    ],
+                    "type": "Point"
                 },
                 "restriction": null,
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
