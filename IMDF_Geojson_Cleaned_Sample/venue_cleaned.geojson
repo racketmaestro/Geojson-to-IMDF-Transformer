@@ -1,0 +1,31 @@
+{
+    "features": [
+        {
+            "feature_type": "",
+            "geometry": {
+                "coordinates": [],
+                "type": ""
+            },
+            "id": "",
+            "properties": {
+                "address_id": "",
+                "alt_name": null,
+                "category": "",
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "hours": "",
+                "name": {
+                    "en": ""
+                },
+                "phone": null,
+                "restriction": null,
+                "website": ""
+            },
+            "type": ""
+        }
+    ],
+    "name": "",
+    "type": ""
+}

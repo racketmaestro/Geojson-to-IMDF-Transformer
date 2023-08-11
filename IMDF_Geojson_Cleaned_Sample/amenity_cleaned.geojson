@@ -1,0 +1,27 @@
+{
+    "type": "",
+    "name": "",
+    "features": [
+        {
+            "type": "",
+            "feature_type": "",
+            "id": "",
+            "properties": {
+                "accessibility": null,
+                "address_id": "",
+                "alt_name": null,
+                "category": "",
+                "correlation_id": null,
+                "hours": null,
+                "name": null,
+                "phone": null,
+                "unit_ids": [],
+                "website": null
+            },
+            "geometry": {
+                "type": "",
+                "coordinates": []
+            }
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "features": [
+        {
+            "feature_type": "",
+            "geometry": {
+                "coordinates": [],
+                "type": ""
+            },
+            "id": "",
+            "properties": {
+                "address_id": "",
+                "building_ids": [],
+                "category": "",
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "name": {
+                    "en": ""
+                },
+                "ordinal": "",
+                "outdoor": "",
+                "restriction": null,
+                "short_name": {
+                    "en": ""
+                }
+            },
+            "type": ""
+        }
+    ],
+    "name": "",
+    "type": ""
+}

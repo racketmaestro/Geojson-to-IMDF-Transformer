@@ -1,0 +1,21 @@
+{
+    "features": [
+        {
+            "feature_type": "",
+            "geometry": null,
+            "id": "",
+            "properties": {
+                "address": "",
+                "country": "",
+                "locality": "",
+                "postal_code": "",
+                "postal_code_ext": null,
+                "province": "",
+                "unit": null
+            },
+            "type": ""
+        }
+    ],
+    "name": "",
+    "type": ""
+}

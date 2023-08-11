@@ -1,0 +1,28 @@
+{
+    "type": "",
+    "name": "",
+    "features": [
+        {
+            "type": "",
+            "feature_type": "",
+            "id": "",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": "",
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": "",
+                "name": null
+            },
+            "geometry": {
+                "type": "",
+                "coordinates": []
+            }
+        }
+    ]
+}

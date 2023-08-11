@@ -1,0 +1,19 @@
+{
+    "features": [
+        {
+            "feature_type": "",
+            "geometry": {
+                "coordinates": [],
+                "type": ""
+            },
+            "id": "",
+            "properties": {
+                "address_id": "",
+                "unit_id": ""
+            },
+            "type": ""
+        }
+    ],
+    "name": "",
+    "type": ""
+}

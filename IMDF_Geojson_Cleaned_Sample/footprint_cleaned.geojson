@@ -1,0 +1,20 @@
+{
+    "features": [
+        {
+            "feature_type": "",
+            "geometry": {
+                "coordinates": [],
+                "type": ""
+            },
+            "id": "",
+            "properties": {
+                "building_ids": [],
+                "category": "",
+                "name": null
+            },
+            "type": ""
+        }
+    ],
+    "name": "",
+    "type": ""
+}
