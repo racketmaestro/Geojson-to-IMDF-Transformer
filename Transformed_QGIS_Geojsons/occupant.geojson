@@ -4,20 +4,23 @@
     "features": [
         {
             "geometry": null,
-            "feature_type": "Occupant",
+            "feature_type": "occupant",
             "id": "1387f88b-4849-44e5-97f9-3ded923c9a39",
             "properties": {
-                "address_id": null,
+                "address_id":"0baf3b1f-55c6-4049-83a8-ec999819a6c2",
                 "alt_name": null,
-                "anchor_id": "",
-                "category": "",
+                "anchor_id": "87af773f-ed30-4936-b3d1-a60a66191923",
+                "category": "shopping",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "coordinates": [
+                        0.139624907287615,
+                        52.175316447903384
+                    ],
+                    "type": "Point"
                 },
                 "hours": "",
                 "name": {
-                    "en": ""
+                    "en": "Test"
                 },
                 "phone": "",
                 "restriction": null,

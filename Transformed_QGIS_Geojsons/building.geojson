@@ -9,13 +9,16 @@
             "properties": {
                 "address_id": "",
                 "alt_name": null,
-                "category": "",
+                "category": "unspecified",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "type": "Point",
+                    "coordinates": [
+                    0.14114673136908,
+                    52.17472291854562
+                ]
                 },
                 "name": {
-                    "en": ""
+                    "en": "Addenbrooke's"
                 },
                 "restriction": null
             },

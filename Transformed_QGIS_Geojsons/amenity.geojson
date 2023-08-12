@@ -5,15 +5,15 @@
         {
             "type": "Feature",
             "properties": {
-                "unit_ids": "uuid",
+                "unit_ids": ["b93b9669-9835-432b-95e5-9ff3ba0f2527"],
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
-                "category": "Restroom",
+                "category": "restroom",
                 "accessibility": null,
                 "alt_name": null,
                 "correlation_id": null,
                 "hours": null,
                 "name": {
-                    "en" : "Toilet"
+                    "en": "Toilet"
                 },
                 "phone": null,
                 "website": null,
@@ -24,8 +24,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    0.140535295427031,
-                    52.17487278375197
+                    0.14114673136908,
+                    52.17472291854562
                 ]
             },
             "feature_type": "amenity",

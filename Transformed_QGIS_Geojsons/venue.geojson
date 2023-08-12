@@ -7,14 +7,17 @@
             "properties": {
                 "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
                 "alt_name": null,
-                "category": null,
+                "category": "healthcarefacility",
                 "display_point": {
-                    "coordinates": [],
-                    "type": ""
+                    "type": "Point",
+                    "coordinates": [
+                    0.14114673136908,
+                    52.17472291854562
+                ]
                 },
                 "hours": null,
                 "name": {
-                    "en": ""
+                    "en": "Addenbrooke's Hospital"
                 },
                 "phone": null,
                 "restriction": null,
