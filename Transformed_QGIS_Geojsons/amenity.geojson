@@ -5,8 +5,10 @@
         {
             "type": "Feature",
             "properties": {
-                "unit_ids": ["b93b9669-9835-432b-95e5-9ff3ba0f2527"],
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "unit_ids": [
+                    "6d1b1ce4-5351-484b-ad34-34e5db979f17"
+                ],
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "category": "restroom",
                 "accessibility": null,
                 "alt_name": null,
@@ -18,7 +20,7 @@
                 "phone": null,
                 "website": null,
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -29,7 +31,7 @@
                 ]
             },
             "feature_type": "amenity",
-            "id": "01c89575-81d3-4aaa-8f1e-27712589e6df"
+            "id": "18b0002b-b804-4606-8252-6c9d4eec757a"
         }
     ]
 }

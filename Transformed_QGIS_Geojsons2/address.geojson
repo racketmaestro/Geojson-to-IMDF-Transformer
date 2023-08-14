@@ -5,14 +5,14 @@
         {
             "geometry": null,
             "feature_type": "address",
-            "id": "ffab293c-0328-4274-ad92-1034977b9064",
+            "id": "",
             "properties": {
-                "address": "Addenbrookes Hospital, Hills Rd, Cambridge ",
-                "country": "GB",
-                "locality": "Cambridge",
-                "postal_code": "CB2 0QQ",
+                "address": "",
+                "country": "",
+                "locality": "",
+                "postal_code": "",
                 "postal_code_ext": null,
-                "province": "GB-CAM",
+                "province": "",
                 "unit": null
             },
             "type": "Feature"

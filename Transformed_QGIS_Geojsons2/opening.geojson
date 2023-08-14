@@ -1,0 +1,534 @@
+{
+    "type": "FeatureCollection",
+    "name": "opening",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194231806940102,
+                            52.18559270256563
+                        ],
+                        [
+                            0.194231713258898,
+                            52.18559649285861
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194161857492691,
+                            52.18559225880845
+                        ],
+                        [
+                            0.194147591213086,
+                            52.1855921971713
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194145238198204,
+                            52.185600190808486
+                        ],
+                        [
+                            0.194132185502111,
+                            52.185600122584
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194037997547028,
+                            52.185613567983665
+                        ],
+                        [
+                            0.194037578101822,
+                            52.18562319820376
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194093218061806,
+                            52.185625296554115
+                        ],
+                        [
+                            0.194092808775844,
+                            52.18563729755983
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194229475345016,
+                            52.18563254755354
+                        ],
+                        [
+                            0.194228257527483,
+                            52.185645578076596
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194258220373747,
+                            52.1856774318288
+                        ],
+                        [
+                            0.194236706390776,
+                            52.18567723788042
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194214694451409,
+                            52.185692458930156
+                        ],
+                        [
+                            0.194214135969412,
+                            52.185710043122384
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194276955212026,
+                            52.185693090114306
+                        ],
+                        [
+                            0.194276100371643,
+                            52.18571108036111
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194290825023135,
+                            52.18572098695112
+                        ],
+                        [
+                            0.194309264113382,
+                            52.18572107621693
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194315813244546,
+                            52.18580658361878
+                        ],
+                        [
+                            0.194316987559948,
+                            52.18578522432476
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194342393661699,
+                            52.18565121320013
+                        ],
+                        [
+                            0.19436459155978,
+                            52.18565131630426
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194433757614774,
+                            52.18571043364728
+                        ],
+                        [
+                            0.194434437435206,
+                            52.185695975235205
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194454574884241,
+                            52.185680978231595
+                        ],
+                        [
+                            0.194472668082601,
+                            52.18568117261438
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194488031691549,
+                            52.18569954016331
+                        ],
+                        [
+                            0.194487343295949,
+                            52.18571398635032
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": ""
+                },
+                "door": null,
+                "level_id": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.194338122823331,
+                            52.18582512791254
+                        ],
+                        [
+                            0.194357587049528,
+                            52.18582518664458
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": "opening",
+            "id": null
+        }
+    ]
+}

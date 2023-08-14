@@ -5,15 +5,15 @@
         {
             "type": "Feature",
             "properties": {
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "alt_name": null,
                 "category": "healthcarefacility",
                 "display_point": {
                     "type": "Point",
                     "coordinates": [
-                    0.14114673136908,
-                    52.17472291854562
-                ]
+                        0.14114673136908,
+                        52.17472291854562
+                    ]
                 },
                 "hours": null,
                 "name": {
@@ -23,7 +23,7 @@
                 "restriction": null,
                 "website": null,
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -104,7 +104,7 @@
                 ]
             },
             "feature_type": "venue",
-            "id": "9c7b6566-6450-4d8e-a240-d5219dfa3ebc"
+            "id": "288504c4-1c18-4f2d-8f9b-de67e24a8935"
         }
     ]
 }

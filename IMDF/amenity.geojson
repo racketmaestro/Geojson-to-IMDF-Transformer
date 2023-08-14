@@ -1,30 +1,136 @@
 {
-  "type": "FeatureCollection",
-  "name": "amenity",
   "features": [
     {
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.140535295427031,
-          52.17487278375197
+          0.194257852974217,
+          52.185638878340924
         ]
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "246cae93-ed63-4c5b-b63b-123200637240",
+      "id": "c7619ccb-9b3b-4da0-a9fd-fefade38d432",
       "properties": {
         "accessibility": null,
-        "address_id": "fdb33997-f4fc-4f20-9d24-90523dac765d",
+        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
         "alt_name": null,
-        "category": "toilets",
+        "category": "",
         "correlation_id": null,
         "hours": null,
         "name": null,
         "phone": null,
-        "unit_ids": "uuid",
+        "unit_ids": [
+          "aebf0877-c296-4dcd-aca2-3ab779e3718d"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194263281915114,
+          52.185746682575996
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "16bb6327-689f-4e78-bf14-5d231993f2d8",
+      "properties": {
+        "accessibility": null,
+        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "alt_name": null,
+        "category": "",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "7ac92121-32fb-4aea-a4bb-c76ecd8579b4"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194259639398593,
+          52.18579860537545
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "76ebe08e-f2cf-4575-89dc-483d44a4f004",
+      "properties": {
+        "accessibility": null,
+        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "alt_name": null,
+        "category": "",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "c635baa7-7044-46af-a9da-531eeb8234bb"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194426056872151,
+          52.185800001148756
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "d0865334-5e24-47ca-88b3-8f1d06f52e12",
+      "properties": {
+        "accessibility": null,
+        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "alt_name": null,
+        "category": "",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "4426bf55-d871-4e36-a691-05a257556a75"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194434252534323,
+          52.18574472849093
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "1b672493-98f5-4807-b6a3-014622876f5f",
+      "properties": {
+        "accessibility": null,
+        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "alt_name": null,
+        "category": "",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "b2196f80-9171-48a2-af02-05f514de8e0c"
+        ],
         "website": null
       }
     }
-  ]
+  ],
+  "type": "FeatureCollection",
+  "name": "amenity"
 }

@@ -6,9 +6,11 @@
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "C Wards"
+                    "en": {
+                        "en": "C Wards"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -20,9 +22,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -75,15 +77,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "b93b9669-9835-432b-95e5-9ff3ba0f2527"
+            "id": "6d1b1ce4-5351-484b-ad34-34e5db979f17"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "Haematology"
+                    "en": {
+                        "en": "Haematology"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -95,9 +99,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -130,15 +134,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "fb262eb2-901a-4ca4-a451-85aa8bdd3066"
+            "id": "af423241-c8fa-472a-82ac-68f9622dc384"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "Radiotherapy"
+                    "en": {
+                        "en": "Radiotherapy"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -150,9 +156,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -185,15 +191,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "4173239a-7224-4907-9b51-c828c17778c9"
+            "id": "eca3bba1-ee03-4ada-ac05-9b4ca3667692"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "NCCU"
+                    "en": {
+                        "en": "NCCU"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -205,9 +213,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -240,15 +248,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "0b4ca31c-5795-470a-9ecb-2d36fcf24b14"
+            "id": "7a9196f4-14a9-4262-aa1c-e071407f56b1"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "Chapel"
+                    "en": {
+                        "en": "Chapel"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -260,9 +270,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -303,15 +313,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "59bcf26c-f0b7-432b-abb9-8ea51ca56fd9"
+            "id": "9c0263e7-199c-4037-9a0c-9e5315b69d88"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "Burger King"
+                    "en": {
+                        "en": "Burger King"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -323,9 +335,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -358,15 +370,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "c48ea91d-d0cb-4440-a363-ed7a97a979c3"
+            "id": "622128c2-d294-46a0-bafe-05633f929671"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "The Spice of Life"
+                    "en": {
+                        "en": "The Spice of Life"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -378,9 +392,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -413,15 +427,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "f0a6c556-2455-4db5-9610-f663d69fcfe4"
+            "id": "2eb0a5fb-9cfd-4a2b-a214-bba7c0b32b39"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "Starbucks"
+                    "en": {
+                        "en": "Starbucks"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -433,9 +449,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -480,15 +496,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "895c1e90-39e5-48b0-acf4-15d8a7fd38ac"
+            "id": "29781f17-0b83-4c85-b77b-710472b75ed5"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "M&S Simply Food"
+                    "en": {
+                        "en": "M&S Simply Food"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -500,9 +518,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -551,15 +569,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "02897b3a-f0f9-411e-8e36-4515943c219d"
+            "id": "3b0019de-5d17-47e3-9173-ef4e09862877"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "Costa Coffee"
+                    "en": {
+                        "en": "Costa Coffee"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -571,9 +591,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -630,15 +650,17 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "32a1fc87-0e24-45d8-8b57-b0e9523b2a74"
+            "id": "429d93d8-9f81-4b8d-8c99-01305ccf933f"
         },
         {
             "type": "Feature",
             "properties": {
                 "name": {
-                    "en": "D Wards"
+                    "en": {
+                        "en": "D Wards"
+                    }
                 },
-                "level_id": "10f7e3f7-b816-4b69-a6e7-71e9b73a55dd",
+                "level_id": "24c4767c-71ad-4db6-a364-a74529c2b64c",
                 "accessibility": null,
                 "alt_name": null,
                 "category": "room",
@@ -650,9 +672,9 @@
                     "type": "Point"
                 },
                 "restriction": null,
-                "address_id": "0baf3b1f-55c6-4049-83a8-ec999819a6c2",
+                "address_id": "ffab293c-0328-4274-ad92-1034977b9064",
                 "building_ids": [
-                    "ce86f624-752e-425c-a0ba-814f25f584b3"
+                    "6bbcd8ae-6151-442e-a63b-4b4324e730b0"
                 ]
             },
             "geometry": {
@@ -713,7 +735,7 @@
                 ]
             },
             "feature_type": "unit",
-            "id": "f5eb13ad-efb1-476c-b7d9-cb28dbdae5f2"
+            "id": "ed66dd8d-c6af-4f5a-b56f-24923d6a394d"
         }
     ]
 }
