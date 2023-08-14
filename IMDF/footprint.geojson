@@ -69,12 +69,12 @@
         ]
       },
       "feature_type": "footprint",
-      "id": "2c81f9a7-914f-4db3-953c-4364ba68fd6f",
+      "id": "4da650db-a178-4315-9d84-1766bfffe35a",
       "properties": {
         "building_ids": [
-          "28eae1aa-7d86-422e-bac9-0922be7be1fd"
+          "f7ac68da-a853-487c-82ed-7d54a2fefa7b"
         ],
-        "category": "office",
+        "category": "ground",
         "name": null
       },
       "type": "Feature"

@@ -5,17 +5,18 @@
     {
       "geometry": null,
       "feature_type": "building",
-      "id": "28eae1aa-7d86-422e-bac9-0922be7be1fd",
+      "id": "f7ac68da-a853-487c-82ed-7d54a2fefa7b",
       "properties": {
-        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
         "alt_name": null,
-        "category": "",
+        "category": "unspecified",
         "display_point": {
-          "coordinates": [],
-          "type": "Feature"
+          "coordinates": [0.19458723822821,
+          52.185771666941406],
+          "type": "Point"
         },
         "name": {
-          "en": ""
+          "en": "CPC4"
         },
         "restriction": null
       },

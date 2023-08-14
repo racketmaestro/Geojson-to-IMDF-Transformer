@@ -10,18 +10,18 @@
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "c7619ccb-9b3b-4da0-a9fd-fefade38d432",
+      "id": "db3b0aef-8b80-4469-8829-24afb7c0aeaf",
       "properties": {
         "accessibility": null,
-        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
         "alt_name": null,
-        "category": "",
+        "category": "restroom",
         "correlation_id": null,
         "hours": null,
         "name": null,
         "phone": null,
         "unit_ids": [
-          "aebf0877-c296-4dcd-aca2-3ab779e3718d"
+          "20e1abb6-0c11-4e30-b3cd-aaeeea71a4c3"
         ],
         "website": null
       }
@@ -36,18 +36,18 @@
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "16bb6327-689f-4e78-bf14-5d231993f2d8",
+      "id": "ee03e5a6-e271-4387-86b0-d07389382e9f",
       "properties": {
         "accessibility": null,
-        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
         "alt_name": null,
-        "category": "",
+        "category": "restroom",
         "correlation_id": null,
         "hours": null,
         "name": null,
         "phone": null,
         "unit_ids": [
-          "7ac92121-32fb-4aea-a4bb-c76ecd8579b4"
+          "00b6a83e-a91d-4f55-8add-5036f9cfdbd1"
         ],
         "website": null
       }
@@ -62,18 +62,18 @@
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "76ebe08e-f2cf-4575-89dc-483d44a4f004",
+      "id": "e8c8ba34-be69-4fdd-b8b0-2b97b4d44e72",
       "properties": {
         "accessibility": null,
-        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
         "alt_name": null,
-        "category": "",
+        "category": "restroom",
         "correlation_id": null,
         "hours": null,
         "name": null,
         "phone": null,
         "unit_ids": [
-          "c635baa7-7044-46af-a9da-531eeb8234bb"
+          "af4cc6c2-62ab-4989-a33e-dd3c5d25ddde"
         ],
         "website": null
       }
@@ -88,18 +88,18 @@
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "d0865334-5e24-47ca-88b3-8f1d06f52e12",
+      "id": "101c1458-6c37-4518-bd11-852c53da7a53",
       "properties": {
         "accessibility": null,
-        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
         "alt_name": null,
-        "category": "",
+        "category": "restroom",
         "correlation_id": null,
         "hours": null,
         "name": null,
         "phone": null,
         "unit_ids": [
-          "4426bf55-d871-4e36-a691-05a257556a75"
+          "f4297a14-71e6-4077-901b-049807056156"
         ],
         "website": null
       }
@@ -114,18 +114,18 @@
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "1b672493-98f5-4807-b6a3-014622876f5f",
+      "id": "0f70f624-acd5-4978-8d75-82de2cc510c8",
       "properties": {
         "accessibility": null,
-        "address_id": "9a64c3d5-1374-4fe0-aa94-e49c077e2fab",
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
         "alt_name": null,
-        "category": "",
+        "category": "restroom",
         "correlation_id": null,
         "hours": null,
         "name": null,
         "phone": null,
         "unit_ids": [
-          "b2196f80-9171-48a2-af02-05f514de8e0c"
+          "d4d4d199-3c7a-4a8b-84ac-9ff8640c7289"
         ],
         "website": null
       }
