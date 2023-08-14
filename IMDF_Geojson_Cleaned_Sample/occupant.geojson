@@ -4,16 +4,12 @@
     "features": [
         {
             "geometry": null,
-            "feature_type": "",
+            "feature_type": "Occupant",
             "id": "",
             "properties": {
                 "alt_name": null,
                 "anchor_id": "",
                 "category": "",
-                "display_point": {
-                    "coordinates": [],
-                    "type": ""
-                },
                 "hours": "",
                 "name": {
                     "en": ""
@@ -23,7 +19,7 @@
                 "website": null,
                 "correlation_id": null
             },
-            "type": ""
+            "type": "Feature"
         }
     ]
 }

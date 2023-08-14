@@ -5,23 +5,186 @@
         {
             "geometry": null,
             "feature_type": "occupant",
-            "id": "1387f88b-4849-44e5-97f9-3ded923c9a39",
+            "id": "7d1b8614-2283-4396-aca7-ed571871dffe",
             "properties": {
-                "address_id":"0baf3b1f-55c6-4049-83a8-ec999819a6c2",
                 "alt_name": null,
-                "anchor_id": "87af773f-ed30-4936-b3d1-a60a66191923",
-                "category": "shopping",
-                "display_point": {
-                    "coordinates": [
-                        0.139624907287615,
-                        52.175316447903384
-                    ],
-                    "type": "Point"
-                },
+                "category": null,
                 "hours": "",
                 "name": {
                     "en": "Test"
                 },
+                "anchor_id": "422db701-6e4a-44b0-bcda-c3044e27c455",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "b4f2f43e-9e5c-4649-a9db-9bd4f675df5a",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "a225ac8d-37e8-416e-aa75-7623cf3fb898",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "450370a0-3293-48e3-ad4b-0697413708f1",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "87af773f-ed30-4936-b3d1-a60a66191923",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "e9f2d04b-0953-4c1c-964f-5dd3ec5dcb5e",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "54af97ee-eb0a-42b6-bffa-b52353d8387b",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "56476ee4-696a-461a-b4a1-efdfad02fa8a",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "566d1f6f-9741-480a-b23f-6e15c0329a8a",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "9e1f8db0-2f84-409f-862d-be3a279b4e12",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "c61eb7a5-4517-451b-b24a-3cb8986ad174",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "6a632347-5d99-4c0a-8a5b-fde8e0efd4aa",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "de796deb-1516-4275-a506-3e78d5a6f9f5",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "0978b88f-2670-45c8-865b-328bbdecf22a",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "9c941c28-e7b7-4e8a-9f00-8569cfca4ad1",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "ebf1a9e4-7915-453e-931e-bbc230d3c6bd",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "cb6b507b-3d11-4aa1-9a90-b91bc2ec0563",
+                "phone": "",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": null,
+            "feature_type": "occupant",
+            "id": "b73ca5be-19ac-4efa-abc9-53b379abf764",
+            "properties": {
+                "alt_name": null,
+                "category": null,
+                "hours": "",
+                "name": {
+                    "en": "Test"
+                },
+                "anchor_id": "40574512-f8a5-48cb-aa6e-5f5f7b8b246a",
                 "phone": "",
                 "restriction": null,
                 "website": null,
