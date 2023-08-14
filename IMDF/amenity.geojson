@@ -1,0 +1,28 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.140535295427031,
+          52.17487278375197
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "b34f30ef-8903-4898-9b2b-75dd88c8c81c",
+      "properties": {
+        "accessibility": null,
+        "address_id": "f0c32958-c197-4595-a964-7c2285d9c4fd",
+        "alt_name": null,
+        "category": "toilets",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": "uuid",
+        "website": null
+      }
+    }
+  ]
+}

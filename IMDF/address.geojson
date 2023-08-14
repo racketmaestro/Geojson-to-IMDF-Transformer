@@ -1,0 +1,19 @@
+{
+  "features": [
+    {
+      "geometry": null,
+      "feature_type": "address",
+      "id": "f0c32958-c197-4595-a964-7c2285d9c4fd",
+      "properties": {
+        "address": "",
+        "country": "",
+        "locality": "",
+        "postal_code": "",
+        "postal_code_ext": null,
+        "province": "",
+        "unit": null
+      },
+      "type": "Feature"
+    }
+  ]
+}
