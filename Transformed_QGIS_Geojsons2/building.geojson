@@ -1,0 +1,23 @@
+{
+    "features": [
+        {
+            "geometry": null,
+            "feature_type": "building",
+            "id": "",
+            "properties": {
+                "address_id": "",
+                "alt_name": null,
+                "category": "",
+                "display_point": {
+                    "coordinates": [],
+                    "type": "Feature"
+                },
+                "name": {
+                    "en": ""
+                },
+                "restriction": null
+            },
+            "type": "Feature"
+        }
+    ]
+}

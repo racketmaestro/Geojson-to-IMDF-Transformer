@@ -1,0 +1,136 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "level_id": "UUID",
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": "Feature"
+                },
+                "door": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.140563407384968,
+                            52.17457583788415
+                        ],
+                        [
+                            0.140574233091608,
+                            52.1745624426413
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": null,
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level_id": "UUID",
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": "Feature"
+                },
+                "door": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.140753224952733,
+                            52.17463227889583
+                        ],
+                        [
+                            0.140766554734021,
+                            52.17461390642386
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": null,
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level_id": "UUID",
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": "Feature"
+                },
+                "door": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.141780181432751,
+                            52.17489964600716
+                        ],
+                        [
+                            0.141799420542975,
+                            52.174904656911146
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": null,
+            "id": null
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "level_id": "uuid",
+                "access_control": null,
+                "accessibility": null,
+                "alt_name": null,
+                "category": null,
+                "display_point": {
+                    "coordinates": [],
+                    "type": "Feature"
+                },
+                "door": null,
+                "name": null
+            },
+            "geometry": {
+                "type": "MultiLineString",
+                "coordinates": [
+                    [
+                        [
+                            0.139982990651846,
+                            52.17464259747846
+                        ],
+                        [
+                            0.140006130457789,
+                            52.17464921468248
+                        ]
+                    ]
+                ]
+            },
+            "feature_type": null,
+            "id": null
+        }
+    ]
+}
