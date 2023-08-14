@@ -20,7 +20,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "eaa9d1a7-1274-444d-8da0-67698cd110e3",
+      "id": "a2d05d8e-434f-41cb-84ba-9bc7a017f1fa",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -34,7 +34,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -56,7 +56,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "7474d99c-2778-4ae9-ad1e-e9e40dfb1cd6",
+      "id": "7ec18036-924c-4ccf-8239-d7d81ea7d450",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -70,7 +70,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -92,7 +92,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "10769630-8520-4ee5-a65a-412baacc6b62",
+      "id": "1b65a564-7396-4c9e-a7be-8fc19ab0dbdc",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -106,7 +106,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -128,7 +128,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "a5e15a93-4424-40be-bb92-2d0ca0debbe0",
+      "id": "8a293d7f-8382-4a49-b806-1252ee715bdd",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -142,7 +142,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -164,7 +164,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "a8cf1b65-40f7-46cf-9ba9-7d1bb8571bcf",
+      "id": "b79770ac-c75f-4f87-9b53-69874517f1a3",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -178,7 +178,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -200,7 +200,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "bdb2d675-eb2c-4940-abfa-d35cf57349c9",
+      "id": "4017f403-b00b-4e3f-bf58-e39a7f324a9b",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -214,7 +214,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -236,7 +236,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "883292b0-c54a-4e2a-9470-508ac12c1e8b",
+      "id": "3a917481-d40d-48c0-8a6e-eeb8d6da881a",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -250,7 +250,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -272,7 +272,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "7f0fc582-5c7e-4821-9dc0-b87cf9caed4c",
+      "id": "ffb1a6fa-3775-490a-8b9c-2e1e549394dd",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -286,7 +286,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -308,7 +308,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "1df58881-4312-4a0b-ba2c-f04eab85d9a4",
+      "id": "57d438b4-eecd-4731-a65c-d6d198b0a8e0",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -322,7 +322,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -344,7 +344,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "d5d57d10-ea39-4652-8215-2380d02bfec1",
+      "id": "f37cc648-9b1d-4ca6-b989-0c67a7e6643e",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -358,7 +358,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -380,7 +380,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "8ee728bf-8806-402c-adab-0f1e86a443d8",
+      "id": "4c65a141-6097-40b8-8715-152835d478d8",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -394,7 +394,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -416,7 +416,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "86b7abdc-ff0d-4196-b6a4-f65a40a479ec",
+      "id": "c07f5750-c146-463d-a75c-22097b0643d2",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -430,7 +430,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -452,7 +452,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "441a7bc0-5dbe-4765-bac0-67ea3802c02a",
+      "id": "0e974f99-e2b6-457a-a0a7-3f72465b6d7b",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -466,7 +466,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -488,7 +488,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "5c4a81d4-876d-4d54-b6a8-9b1d13feccce",
+      "id": "a51b1c0c-e5eb-44ab-8188-8ef872400666",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -502,7 +502,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -524,7 +524,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "15bb0065-06d7-474c-8ef0-c7cd08af9dc6",
+      "id": "fb0c54c0-fe4f-4c80-bff3-748d81e9cf21",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -538,7 +538,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     },
@@ -560,7 +560,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "3826f0d4-032c-4564-8ebf-57d6002a8564",
+      "id": "afc03d6b-b523-4fb2-9a28-33d2b589dc0c",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -574,7 +574,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": null
       }
     }

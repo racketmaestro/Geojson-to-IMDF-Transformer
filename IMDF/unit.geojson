@@ -34,19 +34,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "c833b87f-80d2-4d87-983e-3252523403a7",
+      "id": "df7ca29e-73cd-4651-ab1e-29c766baeb9d",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -85,19 +78,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "d32ebe44-f48a-43d7-a5b1-34d9e7fbfa5c",
+      "id": "4ac51e73-4ba8-40d3-ad19-ce1e7d637e0c",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -144,19 +130,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "a14b1c03-7e36-4b36-bd0c-60513c1e995f",
+      "id": "8dce0f17-f375-43d4-8d56-785824780622",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -195,19 +174,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "f1537975-b88c-4ad4-862b-ca594e6b98fa",
+      "id": "e08bf5d1-cd6d-481d-a634-84c500af2784",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -246,19 +218,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "ef02c343-ff86-4cf7-85cf-5645bec55a4f",
+      "id": "214042f2-cca8-4f99-a2ab-d85926a94a5d",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -333,19 +298,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "b3322898-1fba-4f56-abb7-26e336823c84",
+      "id": "a8562fcf-b639-436c-9ad6-8000c9c5c13e",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -384,19 +342,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "e61cd77c-6aa1-41b3-9435-07e855197761",
+      "id": "d39229a8-0582-41c0-a121-6ca53a03b70a",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -435,19 +386,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "869da682-bf6d-4aaf-b503-480d90cffb4c",
+      "id": "572f4180-30f3-4783-a610-af9f620f977c",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -486,19 +430,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "41a1e347-ab34-406d-80a4-5c413edb92f7",
+      "id": "90cb048f-ba5a-4f3f-94ec-541e246c35f5",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -541,19 +478,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "d3502288-f529-4c8a-a2c6-b6ef5ac78bff",
+      "id": "5a039b8b-7f2e-4c16-aae3-809981fa99db",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -596,19 +526,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "d02a1df0-5b60-473e-b7e5-51c2df72ede0",
+      "id": "af2f11f9-ac9c-4cab-96f4-cfd08e6c0d42",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -647,19 +570,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "de8003ab-772f-4f14-a930-89d42f7e1f16",
+      "id": "97edb7f2-f48f-4eb1-9e64-90936d10ae8f",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -718,19 +634,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "dd8db48b-c94d-4ab1-9f9f-6640438b1434",
+      "id": "020a7ad9-bca7-44e1-8861-c712c22c1ab9",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -769,19 +678,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "16ca6ad4-dd6a-4e96-bc6b-4c766c449ccf",
+      "id": "29ebf4bf-4e8a-4252-b088-79cd05614f97",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -824,19 +726,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "41ebc079-545f-47f7-9d18-79713d5bf409",
+      "id": "362ad1fb-188c-499d-ae49-edf7eb26ca9a",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -875,19 +770,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "d0a1ccac-8685-4649-805b-04728fc48561",
+      "id": "4dde56f3-b6b1-446e-a713-5ebdaed7d508",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -926,19 +814,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "26a821e3-ee2a-472f-8fa3-b32f44c51c09",
+      "id": "e8583d38-647d-4cf3-a1e2-48acb57d2c1a",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },
@@ -981,19 +862,12 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "d91ff069-6fd7-4684-bccf-4e9e74d47a32",
+      "id": "1f7fda19-ff44-4608-a105-66ada7d65a3a",
       "properties": {
         "accessibility": null,
         "alt_name": null,
         "category": "office",
-        "display_point": {
-          "coordinates": [
-            0.1945757887714961,
-            52.18577698577574
-          ],
-          "type": "Point"
-        },
-        "level_id": "0bb161a4-d929-4d2d-88b8-107d96baf8c0",
+        "level_id": "78321674-188a-442f-b405-10ec76cd9874",
         "name": {
           "en": "input name here"
         },

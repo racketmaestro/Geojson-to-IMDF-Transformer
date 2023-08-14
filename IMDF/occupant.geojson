@@ -5,7 +5,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "64c293ab-d4bf-41b9-92f8-86cf964bf0a8",
+      "id": "6b7181d0-b167-492c-9b3c-e8d8bbfc17a2",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -13,7 +13,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "b2b925cd-80f8-4c26-a045-601ca597bfb7",
+        "anchor_id": "2bff9a56-c3b6-4fe2-8c62-8a8e83a49cab",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -24,7 +24,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "37be16c6-a97d-4472-b8ed-1b6fb8f6e15d",
+      "id": "40005abd-c946-4a0e-ab51-a832124541a4",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -32,7 +32,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "31cb41b8-0908-4b2d-8727-46957da7ebe2",
+        "anchor_id": "1f033cef-a34d-43fe-a7e9-5626d413bf07",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -43,7 +43,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "4d0addbc-cd4e-417d-8882-27bfc9ee4d1e",
+      "id": "594e450f-6ee6-44ce-979d-86071443abe2",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -51,7 +51,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "448cfab7-5fc5-45e9-be40-54e87d9725e7",
+        "anchor_id": "d17f9c20-ee5f-42ad-8229-10eb02f4f63a",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -62,7 +62,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "dcc8ae2a-6b43-463c-a9b2-7f38ca75aa8d",
+      "id": "5e6534d2-3612-46dd-85c2-0908c1766e91",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -70,7 +70,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "e8ffecb8-f3ee-4c15-b1b8-ff6bc4b64980",
+        "anchor_id": "39a0410a-6277-4f2b-b954-c38cca0fdfa8",
         "phone": "",
         "restriction": null,
         "website": null,
