@@ -461,7 +461,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "D Wards",
+                "name": null,
                 "level_id": "UUID",
                 "category": "room"
             },
