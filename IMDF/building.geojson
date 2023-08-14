@@ -5,14 +5,16 @@
     {
       "geometry": null,
       "feature_type": "building",
-      "id": "f7ac68da-a853-487c-82ed-7d54a2fefa7b",
+      "id": "04c4fb09-82fb-497b-b69b-7118b2a55374",
       "properties": {
-        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "address_id": "e6fcbe2d-a0a8-4f4f-80fa-438694e1d185",
         "alt_name": null,
         "category": "unspecified",
         "display_point": {
-          "coordinates": [0.19458723822821,
-          52.185771666941406],
+          "coordinates": [
+            0.19458723822821,
+            52.185771666941406
+          ],
           "type": "Point"
         },
         "name": {
