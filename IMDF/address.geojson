@@ -1,9 +1,11 @@
 {
+  "type": "FeatureCollection",
+  "name": "address",
   "features": [
     {
       "geometry": null,
       "feature_type": "address",
-      "id": "f0c32958-c197-4595-a964-7c2285d9c4fd",
+      "id": "fdb33997-f4fc-4f20-9d24-90523dac765d",
       "properties": {
         "address": "",
         "country": "",

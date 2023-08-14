@@ -1,4 +1,6 @@
 {
+  "type": "FeatureCollection",
+  "name": "opening",
   "features": [
     {
       "geometry": {
@@ -18,7 +20,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "1b79e2d3-c835-47b2-b4b3-8fc2ea6e36ef",
+      "id": "d5bf43ef-d5b0-404a-905a-7557cf75706f",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -32,7 +34,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
         "name": null
       }
     },
@@ -54,7 +56,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "a8c1e91f-add1-4dd6-9afe-f69bccc2e001",
+      "id": "ffb57902-321a-41d8-bc72-b02cd697d953",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -68,7 +70,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
         "name": null
       }
     },
@@ -90,7 +92,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "5bd0d55e-456f-4063-8f48-ed2103509d58",
+      "id": "8b6112b9-bdbf-42c5-af46-419bc0f6af8f",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -104,7 +106,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
         "name": null
       }
     },
@@ -126,7 +128,7 @@
       },
       "type": "Feature",
       "feature_type": "opening",
-      "id": "d903f0ec-c54a-42cd-b296-fe498fa75932",
+      "id": "435ef021-e46e-45c2-897a-45286e1c12d5",
       "properties": {
         "access_control": null,
         "accessibility": null,
@@ -140,7 +142,7 @@
           "type": "Point"
         },
         "door": null,
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
         "name": null
       }
     }

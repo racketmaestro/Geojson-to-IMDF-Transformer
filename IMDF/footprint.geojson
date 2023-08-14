@@ -1,4 +1,6 @@
 {
+  "type": "FeatureCollection",
+  "name": "footprint",
   "features": [
     {
       "geometry": {
@@ -155,10 +157,10 @@
         ]
       },
       "feature_type": "footprint",
-      "id": "5506d9fc-e3ce-434d-90eb-3b6e4b6bf2ac",
+      "id": "820f4da8-190a-4172-b293-312d90b1610d",
       "properties": {
         "building_ids": [
-          "32c2fbb9-430d-4cbb-b7d1-208c18ffb8d1"
+          "96276204-818d-4cb8-9ef7-3c4242084cbe"
         ],
         "category": "",
         "name": null

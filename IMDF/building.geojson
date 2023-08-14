@@ -1,11 +1,13 @@
 {
+  "type": "FeatureCollection",
+  "name": "building",
   "features": [
     {
       "geometry": null,
       "feature_type": "building",
-      "id": "32c2fbb9-430d-4cbb-b7d1-208c18ffb8d1",
+      "id": "96276204-818d-4cb8-9ef7-3c4242084cbe",
       "properties": {
-        "address_id": "f0c32958-c197-4595-a964-7c2285d9c4fd",
+        "address_id": "fdb33997-f4fc-4f20-9d24-90523dac765d",
         "alt_name": null,
         "category": "",
         "display_point": {

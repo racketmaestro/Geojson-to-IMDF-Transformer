@@ -1,9 +1,11 @@
 {
+  "type": "FeatureCollection",
+  "name": "occupant",
   "features": [
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "553432e4-09f0-4158-a7b4-293e69a4ba54",
+      "id": "4eaa04dd-e049-47b9-bf71-2f7cfca3591d",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -11,7 +13,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "a3151d58-907c-4b7e-b2a8-547c4be589c5",
+        "anchor_id": "5ab06e60-9018-438d-9c08-fe2bf227bfee",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -22,7 +24,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "0f379649-f5a7-4be5-88ee-159d662380b9",
+      "id": "7f4d2553-6ae9-435a-8cbc-cd55984e799f",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -30,7 +32,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "48850b84-83ad-4628-b4d8-e2edfa45600b",
+        "anchor_id": "7cb2ae59-7e30-4983-9d2d-553b793d303c",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -41,7 +43,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "a1062c83-a41e-473f-99ab-29a1869f304a",
+      "id": "42b87ca3-6c13-4e78-9f96-70f41f5feff1",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -49,7 +51,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "8f0c5642-2b12-4567-be78-bcb5a0aa395e",
+        "anchor_id": "02649382-7598-494f-b67e-555d130394e2",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -60,7 +62,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "434b9aa5-07b3-46d2-86fc-70c59c9b9476",
+      "id": "2e868901-97ca-48a3-aa88-d8ad193f8d9c",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -68,7 +70,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "70a3fc4a-099d-4bf0-96a6-77dc38d10868",
+        "anchor_id": "bbda9785-e454-49ba-a25f-6c207be024c8",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -79,7 +81,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "66c97802-be08-4d0d-904d-cb6c95d7a76b",
+      "id": "bbfa596f-b7f9-4cba-8e4b-2eced3f4f644",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -87,7 +89,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "0ac8824d-8fe7-4bb0-8c51-fb5786d646f5",
+        "anchor_id": "026bbd0e-5c41-4d49-824c-16fd1e29b6c1",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -98,7 +100,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "9f9e82cf-f1f5-48b3-8cd6-01b5e508c5c9",
+      "id": "4d5077aa-0298-4bc8-8b38-71004960fc95",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -106,7 +108,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "0185e989-55fd-4f32-9a67-9f5e5f21651a",
+        "anchor_id": "c74d150a-18a5-49da-95c8-4f5fd01c5339",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -117,7 +119,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "2c9c3f1e-6acf-48b4-bda3-d1211820fbcc",
+      "id": "2db98092-02ea-485f-b7ec-ccad8e742b5e",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -125,7 +127,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "c169c1f0-786d-489f-be1f-f0c0277674cf",
+        "anchor_id": "f1d79f70-2047-46e0-bd38-c4600b4fc878",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -136,7 +138,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "790830d6-d382-4300-8182-6a67be0c6d77",
+      "id": "1cbf31ad-2a90-48cf-bd39-e0cdde3c865e",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -144,7 +146,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "89600994-56b4-4ab8-b162-a8aec7d4c258",
+        "anchor_id": "25021c3d-dfb9-46e7-81a6-60c19f6b98e4",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -155,7 +157,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "9204b00c-5553-4218-a5e5-b487bd54b0a2",
+      "id": "12003f3a-da47-4134-87f8-98367b6b5837",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -163,7 +165,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "ae9a7f0a-99b9-4d99-af71-15ff8ce4571e",
+        "anchor_id": "4888f193-a994-4424-b9b6-23b0f31b5fad",
         "phone": "",
         "restriction": null,
         "website": null,
@@ -174,7 +176,7 @@
     {
       "geometry": null,
       "feature_type": "occupant",
-      "id": "e837745a-1b61-484b-8993-9befaa4c2566",
+      "id": "49d929ed-9014-42b5-b9ac-27589ffeba46",
       "properties": {
         "alt_name": null,
         "category": null,
@@ -182,7 +184,7 @@
         "name": {
           "en": "Test"
         },
-        "anchor_id": "217697ee-eab3-4d05-9778-440d4e145b05",
+        "anchor_id": "76c8355d-0dc2-4c76-a2f1-f30bcd5addb5",
         "phone": "",
         "restriction": null,
         "website": null,

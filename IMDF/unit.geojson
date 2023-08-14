@@ -1,4 +1,6 @@
 {
+  "type": "FeatureCollection",
+  "name": "unit",
   "features": [
     {
       "geometry": {
@@ -52,7 +54,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "3404f79b-a260-4e16-8717-4ed3105b9e62",
+      "id": "b0c84435-20a8-4093-8109-7e5da8cd7032",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -64,30 +66,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -123,7 +103,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "d20d3581-7af1-4275-837d-85be320ae12b",
+      "id": "58b26707-23ff-44d7-945f-abc567422062",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -135,30 +115,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -194,7 +152,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "0ece43a4-18b6-4c4c-a9fd-0c54379fc0f8",
+      "id": "e9a2ad51-2c44-49cf-895a-88cc43a6e9d2",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -206,30 +164,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -265,7 +201,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "fa9264e6-03ea-4d9a-99df-3ed6fd4ebc5a",
+      "id": "73b4c076-d8fd-4aef-8a57-8a3e148b3e82",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -277,30 +213,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -344,7 +258,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "080c43db-1b5e-49f7-8617-ef3fdc54df56",
+      "id": "98081b7a-395f-4dfe-a73d-a7dc45390961",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -356,30 +270,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -415,7 +307,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "fd3ddc0e-17cd-4b99-a518-1bcf9d4206ab",
+      "id": "d397d85d-2682-4d15-8f82-548abf1301b9",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -427,30 +319,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -486,7 +356,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "77d4fb9c-e89c-40ce-8490-811480529633",
+      "id": "a79d3c8e-6d81-4095-a8df-c2a36218fc23",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -498,30 +368,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -569,7 +417,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "cf333bb1-bf16-4cf8-a2e2-ce9492703e53",
+      "id": "267d643e-5b04-4fc0-810c-37c29c412865",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -581,30 +429,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -656,7 +482,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "72a0b379-7d89-442d-9198-0a69480945c6",
+      "id": "44dac1d9-229a-421c-9e91-83baea2dfda0",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -668,30 +494,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -751,7 +555,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "9f78bbe8-c116-4389-892b-047e4783f003",
+      "id": "15a05796-fed9-442d-8616-1e97c548d2bb",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -763,30 +567,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     },
@@ -850,7 +632,7 @@
       },
       "type": "Feature",
       "feature_type": "unit",
-      "id": "87aef142-95b3-4f6a-a75b-85630c219fbc",
+      "id": "6ec30ee1-cb97-45a2-97cb-edb2bcb27422",
       "properties": {
         "accessibility": null,
         "alt_name": null,
@@ -862,30 +644,8 @@
           ],
           "type": "Point"
         },
-        "level_id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
-        "name": {
-          "en": {
-            "en": {
-              "en": {
-                "en": {
-                  "en": {
-                    "en": {
-                      "en": {
-                        "en": {
-                          "en": {
-                            "en": {
-                              "en": null
-                            }
-                          }
-                        }
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
+        "level_id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
+        "name": null,
         "restriction": null
       }
     }

@@ -1,4 +1,6 @@
 {
+  "type": "FeatureCollection",
+  "name": "level",
   "features": [
     {
       "geometry": {
@@ -275,11 +277,11 @@
         ]
       },
       "feature_type": "level",
-      "id": "b04db4ac-0b55-4afa-8b28-49d9fb1c9bcf",
+      "id": "3b770f6b-8dd5-4331-a043-dffb4dba6f91",
       "properties": {
-        "address_id": "f0c32958-c197-4595-a964-7c2285d9c4fd",
+        "address_id": "fdb33997-f4fc-4f20-9d24-90523dac765d",
         "building_ids": [
-          "32c2fbb9-430d-4cbb-b7d1-208c18ffb8d1"
+          "96276204-818d-4cb8-9ef7-3c4242084cbe"
         ],
         "category": "unspecified",
         "display_point": {

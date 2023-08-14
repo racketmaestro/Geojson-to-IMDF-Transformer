@@ -1,4 +1,6 @@
 {
+  "type": "FeatureCollection",
+  "name": "amenity",
   "features": [
     {
       "geometry": {
@@ -10,10 +12,10 @@
       },
       "type": "Feature",
       "feature_type": "amenity",
-      "id": "b34f30ef-8903-4898-9b2b-75dd88c8c81c",
+      "id": "246cae93-ed63-4c5b-b63b-123200637240",
       "properties": {
         "accessibility": null,
-        "address_id": "f0c32958-c197-4595-a964-7c2285d9c4fd",
+        "address_id": "fdb33997-f4fc-4f20-9d24-90523dac765d",
         "alt_name": null,
         "category": "toilets",
         "correlation_id": null,
