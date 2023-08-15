@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "827c292d-d981-4d3a-9694-3992245092c2",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "healthcare",
+        "hours": null,
+        "name": {"en": "Health Data Insight"},
+        "anchor_id": "ef43a49e-e57d-45d1-8438-87aacf25d804",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "25ff50fb-0dde-49ae-8348-ebf77033b154",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "lawyer",
+        "hours": null,
+        "name": {"en": "Boult Wade Tennant LLP"},
+        "anchor_id": "f2c02c60-e04d-432e-9f24-891ee9307181",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "ca16727a-e657-449a-bf67-537e704197e5",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "computersandaccessories",
+        "hours": null,
+        "name": {"en": "CARA"},
+        "anchor_id": "71b09a9d-3bba-4e91-a25d-89ce51e2cbc6",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "864ab7f4-fd94-4560-b6c1-9dcdfad8937d",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "informationtechnology",
+        "hours": null,
+        "name": {"en": "Syngenta"},
+        "anchor_id": "c8e11b4f-67e2-4492-a571-6cdae9a48435",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    }
+  ]
+}

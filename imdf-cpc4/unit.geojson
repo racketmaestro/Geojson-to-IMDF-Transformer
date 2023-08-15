@@ -1,0 +1,625 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "3bd00727-e042-4b49-8a1a-7068f8bbeed8",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "Kim's office"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1942318, 52.1855926],
+            [0.1942323, 52.1855724],
+            [0.1942833, 52.1855731],
+            [0.1942821, 52.185602],
+            [0.1942316, 52.1856018],
+            [0.1942317, 52.1855965],
+            [0.1942318, 52.1855927],
+            [0.1942318, 52.1855926]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "491e9a49-701f-400a-be83-b4c1e8caccf9",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "conferenceroom",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "Small Meeting Room"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1941476, 52.1855922],
+            [0.1941463, 52.1855922],
+            [0.1941461, 52.1855922],
+            [0.1941473, 52.1855714],
+            [0.1942323, 52.1855724],
+            [0.1942318, 52.1855926],
+            [0.1941619, 52.1855923],
+            [0.1941476, 52.1855922]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "62de42f2-d466-47fb-bc48-30827f0abfd9",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "conferenceroom",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "Large Meeting Room"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1941322, 52.1856001],
+            [0.1940699, 52.1855998],
+            [0.1940386, 52.1855996],
+            [0.1940387, 52.1855703],
+            [0.1940898, 52.1855707],
+            [0.1941467, 52.1855714],
+            [0.1941461, 52.1855922],
+            [0.1941455, 52.1856002],
+            [0.1941452, 52.1856002],
+            [0.1941322, 52.1856001]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5493478b-333f-4700-85c4-5f2c737c219f",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "storage",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "Storeroom"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1940699, 52.1856002],
+            [0.1940693, 52.1856134],
+            [0.194038, 52.1856134],
+            [0.1940386, 52.1855996],
+            [0.1940699, 52.1855998],
+            [0.1940699, 52.1856002]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d50d3491-49e3-4a52-a455-df512342e815",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "room",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "Computer Room"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1940933, 52.1856246],
+            [0.1940932, 52.1856249],
+            [0.1940932, 52.1856253],
+            [0.1940905, 52.1856758],
+            [0.1940353, 52.1856752],
+            [0.1940375, 52.185624],
+            [0.1940376, 52.1856236],
+            [0.1940933, 52.1856246]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "29d4df7d-3aa7-4b5f-a895-9ac9cc83c07a",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1942317, 52.1855965],
+            [0.1942304, 52.1856175],
+            [0.1942295, 52.1856323],
+            [0.1942295, 52.1856325],
+            [0.1942287, 52.1856454],
+            [0.1942287, 52.1856456],
+            [0.1942801, 52.1856458],
+            [0.1942801, 52.1856499],
+            [0.19428, 52.1856509],
+            [0.1942781, 52.1856776],
+            [0.1942777, 52.1856776],
+            [0.1942582, 52.1856774],
+            [0.1942367, 52.1856772],
+            [0.1942152, 52.185677],
+            [0.1941526, 52.1856764],
+            [0.1940914, 52.1856759],
+            [0.1940914, 52.1856758],
+            [0.1940928, 52.1856373],
+            [0.1940932, 52.1856253],
+            [0.1940932, 52.1856249],
+            [0.1940375, 52.185624],
+            [0.1940376, 52.1856236],
+            [0.1940376, 52.1856232],
+            [0.194038, 52.1856136],
+            [0.194038, 52.1856134],
+            [0.1940693, 52.1856134],
+            [0.1940699, 52.1856002],
+            [0.1941452, 52.1856002],
+            [0.1941455, 52.1856002],
+            [0.1941463, 52.1855922],
+            [0.1941476, 52.1855922],
+            [0.1941619, 52.1855923],
+            [0.1942318, 52.1855927],
+            [0.1942317, 52.1855965]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "5adfe858-a9e9-40e0-a20b-12c985b9864c",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "Playroom"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1942304, 52.1856175],
+            [0.1942316, 52.1856018],
+            [0.194282, 52.1856026],
+            [0.1942808, 52.1856323],
+            [0.1942295, 52.1856323],
+            [0.1942293, 52.1856323],
+            [0.1942304, 52.1856175]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "20e1abb6-0c11-4e30-b3cd-aaeeea71a4c3",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1942808, 52.1856323],
+            [0.1942801, 52.1856458],
+            [0.1942287, 52.1856454],
+            [0.1942295, 52.1856325],
+            [0.1942808, 52.1856323]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c11f237a-83fa-41f3-be5d-a3eaa9260553",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1942777, 52.1856776],
+            [0.194277, 52.1856931],
+            [0.1942761, 52.1857111],
+            [0.1942756, 52.1857209],
+            [0.1942732, 52.1857209],
+            [0.194215, 52.1857202],
+            [0.194214, 52.1857202],
+            [0.1942138, 52.1857202],
+            [0.1942141, 52.18571],
+            [0.1942147, 52.1856925],
+            [0.1942152, 52.1856771],
+            [0.1942152, 52.185677],
+            [0.1942367, 52.1856772],
+            [0.1942582, 52.1856774],
+            [0.1942777, 52.1856776]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "515b9f96-ecb8-4a36-b5ee-712ffad3fb73",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1940353, 52.1856752],
+            [0.1940905, 52.1856758],
+            [0.1940914, 52.1856758],
+            [0.1941526, 52.1856764],
+            [0.1942152, 52.1856771],
+            [0.1942159, 52.1856771],
+            [0.194214, 52.1857202],
+            [0.1942124, 52.185758],
+            [0.1942119, 52.1857697],
+            [0.1942094, 52.1858241],
+            [0.1942077, 52.185861],
+            [0.1940296, 52.1858598],
+            [0.1940353, 52.1856752]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "00b6a83e-a91d-4f55-8add-5036f9cfdbd1",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1943093, 52.1857211],
+            [0.1943182, 52.1857211],
+            [0.1943164, 52.1857695],
+            [0.1943162, 52.1857695],
+            [0.1942119, 52.1857697],
+            [0.194215, 52.1857202],
+            [0.1942732, 52.1857209],
+            [0.1942756, 52.1857209],
+            [0.1942908, 52.185721],
+            [0.1943093, 52.1857211]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "af4cc6c2-62ab-4989-a33e-dd3c5d25ddde",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1943162, 52.1857695],
+            [0.1943164, 52.1857695],
+            [0.194314, 52.1858251],
+            [0.1942094, 52.1858241],
+            [0.1942119, 52.1857697],
+            [0.1943162, 52.1857695]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c9333a24-49a9-4da9-b59d-5dc6638b277e",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "walkway",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1943646, 52.1856513],
+            [0.1944365, 52.1856517],
+            [0.1944352, 52.1856808],
+            [0.1944344, 52.185696],
+            [0.1944338, 52.1857104],
+            [0.1944332, 52.1857225],
+            [0.1944332, 52.1857227],
+            [0.1943868, 52.1857227],
+            [0.1943858, 52.1857431],
+            [0.1943839, 52.1858253],
+            [0.1943576, 52.1858252],
+            [0.1943381, 52.1858251],
+            [0.194314, 52.1858251],
+            [0.1943162, 52.1857695],
+            [0.1943182, 52.1857211],
+            [0.1942767, 52.1857204],
+            [0.19428, 52.1856509],
+            [0.1943424, 52.1856512],
+            [0.1943646, 52.1856513]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "f4297a14-71e6-4077-901b-049807056156",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "restroom.female",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1944821, 52.1858248],
+            [0.1943839, 52.1858253],
+            [0.1943854, 52.1857702],
+            [0.1944829, 52.1857691],
+            [0.1944821, 52.1858248]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "d4d4d199-3c7a-4a8b-84ac-9ff8640c7289",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "stairs",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1944315, 52.1857225],
+            [0.1944332, 52.1857225],
+            [0.1944862, 52.1857223],
+            [0.1944855, 52.1857285],
+            [0.1944829, 52.1857691],
+            [0.1943858, 52.1857699],
+            [0.1943868, 52.1857227],
+            [0.1944315, 52.1857225]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "037ed2bb-9700-4a0a-bb9f-2c3a47402a4c",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1944434, 52.1855065],
+            [0.1946766, 52.1855108],
+            [0.1946711, 52.1856833],
+            [0.1944889, 52.1856813],
+            [0.1944727, 52.1856812],
+            [0.1944546, 52.185681],
+            [0.1944352, 52.1856808],
+            [0.1944365, 52.1856517],
+            [0.1944365, 52.1856511],
+            [0.1944434, 52.1855065]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8d38ba5f-fb9f-4043-934c-5b7fe43fb657",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1944546, 52.185681],
+            [0.1944727, 52.1856812],
+            [0.1944889, 52.1856813],
+            [0.1944862, 52.1857223],
+            [0.1944332, 52.1857225],
+            [0.1944315, 52.1857225],
+            [0.1944352, 52.1856808],
+            [0.1944546, 52.185681]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "185b6df9-c3d0-4fc3-a818-da5fb94a4617",
+      "feature_type": "unit",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "office",
+        "display_point": {
+          "coordinates": [0.1945758, 52.185777],
+          "type": "Point"
+        },
+        "level_id": "9244f0bb-003c-478c-be23-add9473e7166",
+        "name": {"en": "input name here"},
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [0.1946644, 52.1858714],
+            [0.194478, 52.1858697],
+            [0.1944821, 52.1858248],
+            [0.1944873, 52.185714],
+            [0.194488, 52.1856995],
+            [0.1944889, 52.1856813],
+            [0.1946708, 52.1856841],
+            [0.1946644, 52.1858714]
+          ]
+        ]
+      }
+    }
+  ]
+}

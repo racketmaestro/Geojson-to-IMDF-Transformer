@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "f7ac68da-a853-487c-82ed-7d54a2fefa7b",
+      "feature_type": "building",
+      "properties": {
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "alt_name": null,
+        "category": "unspecified",
+        "display_point": {
+          "coordinates": [0.1945872, 52.1857717],
+          "type": "Point"
+        },
+        "name": {"en": "CPC4"},
+        "restriction": null
+      },
+      "geometry": null
+    }
+  ]
+}

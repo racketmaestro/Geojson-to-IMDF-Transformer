@@ -1,0 +1,86 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194122326246511,
+          52.185771707651135
+        ]
+      },
+      "feature_type": "anchor",
+      "id": "30029977-2e14-4b6d-962c-de436cea30f3",
+      "properties": {
+        "address_id": "3c8510c2-4793-4204-9b26-0844ad4c0af4",
+        "unit_id": "9a6e4020-497e-4bf0-b703-2e231da961e5"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194152291636331,
+          52.18562614561012
+        ]
+      },
+      "feature_type": "anchor",
+      "id": "351b939b-d0e3-45bc-bdaa-c56a671dc09d",
+      "properties": {
+        "address_id": "3c8510c2-4793-4204-9b26-0844ad4c0af4",
+        "unit_id": "38e4aa40-46a7-491e-8d30-5e4372734555"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194575264638789,
+          52.185785133252274
+        ]
+      },
+      "feature_type": "anchor",
+      "id": "81a87751-3d82-4749-8be0-ed7a9e603c5b",
+      "properties": {
+        "address_id": "3c8510c2-4793-4204-9b26-0844ad4c0af4",
+        "unit_id": "a32f2fe2-b977-43d2-9072-db10edc7e04f"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194557976913893,
+          52.18560141414804
+        ]
+      },
+      "feature_type": "anchor",
+      "id": "f0a8b70a-8ade-4cec-a7cc-090503547124",
+      "properties": {
+        "address_id": "3c8510c2-4793-4204-9b26-0844ad4c0af4",
+        "unit_id": "3eb9cc6c-bd4f-4385-bc97-9ecada4b9b46"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.194321711340313,
+          52.18589819078529
+        ]
+      },
+      "feature_type": "anchor",
+      "id": "78de626b-9c85-48db-be03-0e0e6d65072f",
+      "properties": {
+        "address_id": "3c8510c2-4793-4204-9b26-0844ad4c0af4",
+        "unit_id": "d057f40f-75a9-418d-b232-0188a6275b02"
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection",
+  "name": "anchor"
+}

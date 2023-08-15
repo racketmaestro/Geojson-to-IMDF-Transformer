@@ -1,0 +1,110 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "db3b0aef-8b80-4469-8829-24afb7c0aeaf",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "alt_name": null,
+        "category": "privatelounge",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["20e1abb6-0c11-4e30-b3cd-aaeeea71a4c3"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1942579, 52.1856389]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "ee03e5a6-e271-4387-86b0-d07389382e9f",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "alt_name": null,
+        "category": "restroom.wheelchair",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["00b6a83e-a91d-4f55-8add-5036f9cfdbd1"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1942633, 52.1857467]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e8c8ba34-be69-4fdd-b8b0-2b97b4d44e72",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "alt_name": null,
+        "category": "restroom.male",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["af4cc6c2-62ab-4989-a33e-dd3c5d25ddde"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1942596, 52.1857986]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "101c1458-6c37-4518-bd11-852c53da7a53",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "alt_name": null,
+        "category": "restroom.female",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["f4297a14-71e6-4077-901b-049807056156"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1944261, 52.1858]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f70f624-acd5-4978-8d75-82de2cc510c8",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "591f4877-e985-4ad4-9bf1-8ccce24e5aec",
+        "alt_name": null,
+        "category": "stairs",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["d4d4d199-3c7a-4a8b-84ac-9ff8640c7289"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1944343, 52.1857447]
+      }
+    }
+  ]
+}

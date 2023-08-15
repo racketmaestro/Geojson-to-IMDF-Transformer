@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "amenity2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 9 }, "geometry": { "type": "Point", "coordinates": [ 0.194469809516923, 52.185746269658914 ] } },
+{ "type": "Feature", "properties": { "id": 15 }, "geometry": { "type": "Point", "coordinates": [ 0.194257746758197, 52.185796085713356 ] } },
+{ "type": "Feature", "properties": { "id": 123 }, "geometry": { "type": "Point", "coordinates": [ 0.194428318977172, 52.185799618764754 ] } },
+{ "type": "Feature", "properties": { "id": 1234 }, "geometry": { "type": "Point", "coordinates": [ 0.194416217569745, 52.185746093006138 ] } }
+]
+}
