@@ -1,6 +1,6 @@
 # GeoJSON to IMDF Converter
 
-This repository contains a script to convert standard GeoJSON files into Apple's Indoor Mapping Data Format (IMDF) compatible ones with some automation.
+This repository contains a script that streamlines the standard GeoJSON files into Apple's Indoor Mapping Data Format (IMDF) compatible ones. You may read up about the IMDF in Apple's official documentation. Other third party softwares sell their service of converting floorplans to IMDF at a premium, but IMDF is essentially just a set of geojson files. You will need to use any Geojson tool (I used QGIS) to draw the geometry and georeference the shapes, and then simply run this script to transform them! Afterwards you may use Apple's IMDF sandbox to do labelling, testing and debugging to create your indoor map.
 
 ## Overview
 
@@ -9,8 +9,9 @@ The Indoor Mapping Data Format (IMDF) is an open standard developed by Apple for
 ## How to Use
 
 1. Clone this repository.
-2. Run the `geojson_2_imdf_structs.ipynb` Jupyter Notebook.
-3. Modify the script to include your GeoJSON file and run the notebook.
+2. Put your Geojson files into the folder
+3. Run the `geojson_2_imdf_structs.ipynb` Jupyter Notebook to process and transform the Geojsons
+4. Modify the script to include your GeoJSON file and run the notebook.
 
 ## Requirements
 
@@ -18,6 +19,6 @@ The Indoor Mapping Data Format (IMDF) is an open standard developed by Apple for
 - Jupyter Notebook
 - UUID library
 
-## License
+## Future Improvements
 
-This project is licensed under the MIT License.
+Right now the automation of mapping and referencing of IDs (eg referencing unit_ids in anchor features) is limited to features on the same floor. One would have to run the script once for each level's units, anchors, occupants, etc, and subsequently combine all features into a final geojson file.
