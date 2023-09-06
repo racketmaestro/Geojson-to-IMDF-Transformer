@@ -53,7 +53,7 @@ For a comprehensive understanding of IMDF, refer to the [IMDF Documentation](htt
 
 ## Limitations
 
-Geometries coordinates consist of only longitude and latitude, but not altitude. The script is unable to automatically reference level_id in each unit feature, and unit_id in each anchor and amenity feature.
+In an IMDF structure, geometries coordinates consist of only longitude and latitude, but not altitude. The script is unable to automatically reference level_id in each unit feature, and unit_id in each anchor and amenity feature.
 
 Consequently, one would have to run the script once for each level's units, anchors, occupants, etc, and subsequently combine all features into a final geojson file. Hence why a separate script was created for easier discernment, and QGIS geojsons are labelled according to which level they correspond to (see CPC4_QGIS_Geojsons).  A word of caution: re-running scripts more than necessary will rewrite the UUID of every feature each iteration, which will cause conflict when referencing IDs for buildings, address, and levels.
 
