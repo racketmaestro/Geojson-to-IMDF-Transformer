@@ -16,12 +16,12 @@ This repository offers a streamlined tool for converting GeoJSON files into Appl
     - Once the geojsons are ready, execute this script for transformation.
   
 3. **Outputted GeoJSONs:** 
-    - The resultant geojson files encompass address, amenity, anchor, building, footprint, level, occupant, opening, unit, and venue. 
+    - The resultant geojson files encompass address, amenity, anchor, building, footprint, level, occupant, opening, unit, and venue to a Transformed_Geojson folder.
     - While there are additional potential geojsons for the IMDF set, they aren't deemed essential.
   
 4. **Refinement with Apple's IMDF Sandbox:** 
     - Apple's IMDF sandbox offers a graphical interface for refining, labeling, testing, and debugging your indoor map. 
-    - It's paramount that the IMDF Sandbox reflects zero errors before the submission to Apple for geo-referencing or for rendering within Apple's [sample project](https://developer.apple.com/documentation/mapkit/mapkit_for_appkit_and_uikit/displaying_an_indoor_map).
+    - It's paramount that the IMDF Sandbox reflects zero errors before the submission to Apple for geo-referencing or for rendering within Apple's [sample project](https://developer.apple.com/documentation/mapkit/mapkit_for_appkit_and_uikit/displaying_an_indoor_map). Sample Final IMDFs with 0 errors can be found in Final_IMDF folder.
 
 ## Further Reading
 For a comprehensive understanding of IMDF, refer to the [IMDF Documentation](https://docs.ogc.org/cs/20-094/index.html).
