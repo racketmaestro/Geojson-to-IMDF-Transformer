@@ -23,25 +23,23 @@ This repository offers a streamlined tool for converting GeoJSON files into Appl
     - Apple's IMDF sandbox offers a graphical interface for refining, labeling, testing, and debugging your indoor map. 
     - It's paramount that the IMDF Sandbox reflects zero errors before the submission to Apple for geo-referencing or for rendering within Apple's [sample project](https://developer.apple.com/documentation/mapkit/mapkit_for_appkit_and_uikit/displaying_an_indoor_map). Sample Final IMDFs with 0 errors can be found in Final_IMDF folder.
 
-## Further Reading
 For a comprehensive understanding of IMDF, refer to the [IMDF Documentation](https://docs.ogc.org/cs/20-094/index.html).
-
-
-## How to Use
-
-1. Clone this repository.
-2. Put your Geojson files into the folder
-3. Run the `geojson_2_imdf_structs.ipynb` Jupyter Notebook to process and transform the Geojsons
-4. Modify the file paths run the notebook.
 
 ## Requirements
 
 - Python 3
 - Jupyter Notebook
 - UUID library
+  
+## How to Use
+
+1. Clone this repository.
+2. Load your Geojson files into the project directory and modify file paths
+3. Run the `geojson_2_imdf_structs.ipynb` Jupyter Notebook to process and transform the Geojsons
+4. Modify the file paths run the notebook.
 
 ## Key components of the script
-- Initialize dictionaries with keys and values tailored for IMDF Geojson structures (reference point). Pre-defined values may be declared here.
+- Initialize dictionaries with keys and values tailored for IMDF Geojson structures. Pre-defined values may be declared here, such as address properties.
 - Iterate through each feature in 'features' array for each QGIS Geojsons. Transform the feature with the established reference and append it to the respective dictionary's 'features' array.
 - Generate UUID for each feature
 - Reference building_ids, address_id and level_id for applicable features
@@ -55,9 +53,8 @@ For a comprehensive understanding of IMDF, refer to the [IMDF Documentation](htt
 
 In an IMDF structure, geometries coordinates consist of only longitude and latitude, but not altitude. The script is unable to automatically reference level_id in each unit feature, and unit_id in each anchor and amenity feature.
 
-Consequently, one would have to run the script once for each level's units, anchors, occupants, etc, and subsequently combine all features into a final geojson file. Hence why a separate script was created for easier discernment, and QGIS geojsons are labelled according to which level they correspond to (see CPC4_QGIS_Geojsons).  A word of caution: re-running scripts more than necessary will rewrite the UUID of every feature each iteration, which will cause conflict when referencing IDs for buildings, address, and levels.
+Consequently, one would have to run the script once for each level's units, anchors, occupants, etc, and subsequently combine all features into a final geojson file. Hence why a separate script was created for easier discernment, and QGIS geojsons are labelled according to which level they correspond to (see CPC4_QGIS_Geojsons).  A word of caution: re-running scripts more than necessary will rewrite the UUID of every feature each iteration, which may cause conflict when referencing IDs for buildings, venue and address across multiple levels. This is why in geojson_2_imdf_level2, building venue and address structures had their ids pre-defined and not regenerated.
 
 ## Future Improvements
 - Automate the combination of features from different geojsons for each level into one master geojson file. 
 - To avoid having to run the script once for each level and its components, innovate a mechanism to accurately identify the level of the features for referencing.
-
