@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+      "feature_type": "address",
+      "properties": {
+        "address": "CPC4, Capital Park, Fulbourn, Cambridge",
+        "country": "GB",
+        "locality": "Cambridge",
+        "postal_code": "CB21 5XE",
+        "postal_code_ext": null,
+        "province": "GB-CAM",
+        "unit": null,
+        "postal_code_vanity": null
+      },
+      "geometry": null
+    }
+  ]
+}

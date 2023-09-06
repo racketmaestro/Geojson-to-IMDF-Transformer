@@ -1,0 +1,292 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.14369967732831,
+          52.17552139414401
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "8d476d97-cc00-4214-85a5-4ccd93dc4d65",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "ab3af2a3-445f-46e4-af79-098858f4f17b"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143686290467676,
+          52.17548386535244
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "22fe1735-9bf3-4ac3-83e5-a522bddf4c84",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "19778d13-bbd5-477d-b621-411a25e8641a"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143169940128936,
+          52.17548855645311
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "4a00a317-6bad-4df4-9470-4b7d07c78586",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "d3a8fe06-d900-4ec7-9966-6346706dcd1c"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143133604364358,
+          52.17553839936726
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "cde52615-9c62-4e11-8702-a95b041ba006",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "efd4faf3-1205-4b03-b70e-a5bdedba2ed6"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143303808735276,
+          52.175548954330154
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "3c1616bd-4b4a-4f2c-a531-971fc1dd0b75",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "d20d5ef4-1d54-4398-aeac-70648158a089"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.143525648140068,
+          52.17584038759398
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "36c8c75d-4685-4b34-9221-c158479acc3f",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "91e7f52b-4a9d-4e02-872c-06dd105f9c92"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144020603406902,
+          52.175548001451666
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "83391ffe-3af4-4190-9b7b-4978abafe263",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "8329ce30-37f1-452d-9343-d76cbff17cf5"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144055982967149,
+          52.1755591427989
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "65806944-6b3d-42c0-89de-62ffbc49de0d",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "7c718eeb-16d2-4b2a-81ae-7a64e5d27212"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.144116223840002,
+          52.17557321607564
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "14906d4c-bdc0-4891-84bc-10c35769ae7f",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "8473d2e6-3649-4e68-944a-0c28ed2904fa"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.142775147265775,
+          52.17551633655481
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "c1f37b9b-fe9d-4def-9523-96c05c43565d",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "c14058b5-6ada-41ec-bd7b-4fe3f80aaafc"
+        ],
+        "website": null
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.142737855296866,
+          52.175525718748816
+        ]
+      },
+      "type": "Feature",
+      "feature_type": "amenity",
+      "id": "47e7dd53-18af-4b08-8aff-20c53cfef85a",
+      "properties": {
+        "accessibility": null,
+        "address_id": "4623b794-c39b-490b-a0fc-8c5f2ceb440e",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": [
+          "3765acfe-7dc8-4d06-a80a-0ba342dbbbae"
+        ],
+        "website": null
+      }
+    }
+  ],
+  "type": "FeatureCollection",
+  "name": "amenity"
+}

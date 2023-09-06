@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "3b3eed7d-32b9-4648-8223-fc91d49c9e29",
+      "feature_type": "building",
+      "properties": {
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "unspecified",
+        "display_point": {
+          "coordinates": [0.1408075, 52.1749995],
+          "type": "Point"
+        },
+        "name": {"en": "Addenbrooke's Hospital"},
+        "restriction": null
+      },
+      "geometry": null
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "a27c619d-b11a-4d5e-afaa-6c41a17e24da",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "stairs",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["fd94f549-08dd-4a68-9e1b-e52c3bb01b41"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1436997, 52.1755214]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0f0e52d6-9d67-42ea-88c4-31850099bf82",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "elevator",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["1d5fa20e-6b73-4fbc-b3d7-a8a8bd80b45d"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1436863, 52.1754839]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3209edfe-5d38-4724-9c41-f08d70c0adfb",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["33eb02e6-eae1-4b50-af0e-706177a39852"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1431699, 52.1754886]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "48e7acc1-e931-44ec-a71d-b16579562a3a",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["7a2fefca-d732-4303-9a0f-1145aa28e23e"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1431336, 52.1755384]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "94e17a50-1464-4c6e-b51c-122959143d70",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "reception.desk",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["818e31a0-5dd5-40b4-af10-b7a6699c6707"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1433038, 52.175549]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "57965362-ec72-444d-b716-2d23e3e3d5c9",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "stairs",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["68642529-4648-4274-8a8c-f5f98e64d007"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1435256, 52.1758404]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "0143892d-c978-4020-965b-2134ff83fc8b",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["ee6e14cd-f3e1-4fb4-8f4c-142bff192853"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1440206, 52.175548]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "32ef8f6c-7e60-4b3b-98df-8e124054db48",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "restroom",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["50fd82a9-77fd-452b-a84b-c4fbf989d6b2"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.144056, 52.1755591]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "e48e3120-5068-4060-a59b-cc701fcfd1d7",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "stairs",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["40694e82-40f7-4e97-8ba8-d08688596f21"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1441162, 52.1755732]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "c8d3dc98-1b94-4aa9-8e9b-cead915eb142",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "elevator",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["31b3c89e-a711-4c2c-8f27-bf0401e4ff6c"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1427751, 52.1755163]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "996dc0ff-dbc3-40fb-8fbb-e39eb893d2bc",
+      "feature_type": "amenity",
+      "properties": {
+        "accessibility": null,
+        "address_id": "3b3eed7d-32b9-4648-8223-fc91d49c9e21",
+        "alt_name": null,
+        "category": "stairs",
+        "correlation_id": null,
+        "hours": null,
+        "name": null,
+        "phone": null,
+        "unit_ids": ["03155a36-8819-4088-b83e-35fc0984a613"],
+        "website": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.1427379, 52.1755257]
+      }
+    }
+  ]
+}

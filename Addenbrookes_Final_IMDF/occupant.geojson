@@ -1,0 +1,671 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "7f92cbfc-8949-4050-b18a-bdfc4b3a2da6",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "cafe",
+        "hours": null,
+        "name": {"en": "Tea & Co Cafe"},
+        "anchor_id": "48d6a166-613f-449b-be28-24a34a649cc0",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "00bb8fb5-8320-4cfd-b736-a2bc63fd3058",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "conveniencestore",
+        "hours": null,
+        "name": {"en": "Amigo Convenience Store"},
+        "anchor_id": "28f53b26-c597-4845-9cb5-e9dfae78df07",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "a1b4e045-c7f3-48c0-87f4-d5d268c3e1d1",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Blood Tests"},
+        "anchor_id": "2b09a152-34bc-4531-be97-e35e74dd3c09",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "9e3058a6-bdc4-463e-882c-96fbcb71dc0a",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Outpatient's Pharmacy"},
+        "anchor_id": "faa26a4b-501e-403b-9bfd-65257a929c8f",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "0260439a-97df-474c-918d-d74d5131c69d",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Clinic 6"},
+        "anchor_id": "96e1dc4c-9c9a-48b0-9272-c83787f04a80",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "8d55bb2a-a738-452e-b5e2-492f22c06408",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Physiotherapy"},
+        "anchor_id": "befb018c-7ec1-4a54-a7ad-66d9b39f526a",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "36b9b695-415e-4229-b911-a4475127d572",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Consultation Rooms"},
+        "anchor_id": "7a6deee9-73a9-462d-970c-3d58889bd436",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "e80b4baf-d72e-4e8b-9af9-ecbe8f768df0",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Clinic 14"},
+        "anchor_id": "e0041929-b2ed-409a-ae36-7bb2b02c863e",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "b1a4ee03-54af-4502-9874-def6ca008333",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Clinic 5"},
+        "anchor_id": "5a303df4-d04a-441c-9e59-fc066e6a9884",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "adad9064-567e-4931-81ab-0e6fb9f5f47b",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Main Outpatients"},
+        "anchor_id": "c44d5c84-d317-46d0-b171-d5a217d6aa67",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "e24ada3f-e492-4d65-9784-d37a760bfd40",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Nuclear Medicine"},
+        "anchor_id": "480e4ccb-2158-4181-83f5-c68111228f9f",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "5d107389-75f9-45dc-8449-5e88c11d8003",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Trauma & Orthopaedics"},
+        "anchor_id": "b0759a99-4025-4311-b52c-4a5ffab19356",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "5bb0e601-6fb2-4c1f-9635-8106e13ecead",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "digitizingservices",
+        "hours": null,
+        "name": {"en": "Clinical Engineering"},
+        "anchor_id": "fc52e4fc-5cd0-497b-9a0f-9661635c973c",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "3f2382d8-8a33-4a2f-81e1-8519a18e920a",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "cardiology",
+        "hours": null,
+        "name": {"en": "Cardiology "},
+        "anchor_id": "2e9adb69-a18f-4224-80b7-d207dfc22154",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "6adc1a51-3277-49a1-8ed2-47f2ae6defad",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Endoscopy"},
+        "anchor_id": "ed579f3f-b72d-43c6-852e-b208ab5b5d7e",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "4479c4ad-9f8b-4244-b150-a076d6578251",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "MRC Epidemiology Unit"},
+        "anchor_id": "f0539c3e-4507-419b-bc91-489190385fb9",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "084ac31c-52e8-402d-9411-e6475a704326",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "ACCI"},
+        "anchor_id": "542a0b5c-b7bf-430b-83d5-e4a4fb101f34",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "3c32a69d-90d9-4bb3-8a58-7d29c7f4c172",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Plastic Surgery Unit"},
+        "anchor_id": "e7b9311a-7d36-477f-88d7-c457ed1841dd",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "8b75855b-3aa3-4e3e-9c39-eff8a9a5fca4",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "NIHR Biomedical Research Centre"},
+        "anchor_id": "d559fcd9-8b2c-499a-8ed0-d1fc2a9ccdf1",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "215adaef-99db-42ce-9cd0-2c363023a565",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "K Wards"},
+        "anchor_id": "c61460e1-4892-4ef4-92e7-ef4db4830483",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "c88dc5b3-28b5-497f-a44f-437136f47ad0",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Dialysis Unit"},
+        "anchor_id": "f79e4a83-abf1-4a81-8ca3-1d26378dbedd",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "fe4c0f65-e58d-42ea-b190-aed11bf96ba8",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Neurosciences"},
+        "anchor_id": "486c88c5-ec80-4dd1-9576-a0a6714ccdf7",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "8ba84c9d-969a-46c1-a452-af7c0592727e",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Jubilee Garden"},
+        "anchor_id": "b6cf5439-b66a-4f2b-9af9-930f293f891c",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "d84d8877-dc0e-400b-98a0-bf63cb56c8a2",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "C Wards"},
+        "anchor_id": "675ec5ff-f93b-452c-8468-ee2ba0229906",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "e80510d1-f001-421b-bff9-eeedcbd80c1b",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "D Wards"},
+        "anchor_id": "08c5566c-df34-4126-b507-8d8753a35aea",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "4224a5b5-98ff-44bf-9a99-e66b97588f62",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Pathology Department"},
+        "anchor_id": "a35903e8-c037-4e66-a54d-f71797b79df7",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "fffb6862-9a7e-4034-8859-706d95ea8035",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "A&E"},
+        "anchor_id": "969b4c9d-0571-45d8-bb44-f03b6ee02d60",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "5f64b9b0-33f8-499e-9911-0721f396379a",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "conveniencestore",
+        "hours": null,
+        "name": {"en": "M&S Food To Go"},
+        "anchor_id": "58a5f7a3-cf97-4fb9-8344-4bad7b99a647",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "fea9f85f-24b4-4d09-9343-0eeef4230ac8",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "religiousitems",
+        "hours": null,
+        "name": {"en": "Chapel"},
+        "anchor_id": "aabe3309-ce07-461f-98d6-ad2bf7aa128a",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "aa134995-0f28-4280-b79c-60b5ab2c1a57",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "cafe",
+        "hours": null,
+        "name": {"en": "Costa Coffee"},
+        "anchor_id": "94090438-4aff-4da4-a39e-485781fa32bc",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "5b3aeeaa-9203-4e48-844b-68740745981b",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "foodcourt",
+        "hours": null,
+        "name": {"en": "Burger King"},
+        "anchor_id": "67d6a048-97dd-43be-a343-dd394e93e331",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "e2e98d2a-4a16-465a-a810-d867f7fe59ce",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "radiology",
+        "hours": null,
+        "name": {"en": "Radiotherapy"},
+        "anchor_id": "3025ebcf-2057-45dc-a7ab-245142900b7f",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "cbd31e39-d495-48b9-9834-8ccfce0bca5d",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "Major Trauma Ward"},
+        "anchor_id": "e6c190da-ef95-4956-a828-4504c22632e8",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "293db3fd-33c0-43e1-9696-9c2647b56081",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "conveniencestore",
+        "hours": null,
+        "name": {"en": "Amigo Express"},
+        "anchor_id": "c39f48b2-7cde-486e-ad44-9fea22a7c3a1",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "1c5bab81-3d1b-42bc-b066-d03b58edc2aa",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "acai",
+        "hours": null,
+        "name": {"en": "The Spice of Life"},
+        "anchor_id": "d71f99fa-2094-469f-b369-e42f0b6899a3",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "ef1efee6-cd12-4be5-b58a-e5b5ead90a6d",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "coffee.tea",
+        "hours": null,
+        "name": {"en": "Starbucks Coffee"},
+        "anchor_id": "9716c25b-466f-48fb-ae03-3142877c8f15",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "id": "8f897a13-886a-4609-a3e6-1148070d297a",
+      "feature_type": "occupant",
+      "properties": {
+        "alt_name": null,
+        "category": "cafe",
+        "hours": null,
+        "name": {"en": "Communications Learning Cafe"},
+        "anchor_id": "72327a70-3115-456b-9cb9-1cabf68ee9d3",
+        "phone": null,
+        "restriction": null,
+        "website": null,
+        "correlation_id": null,
+        "validity": null
+      },
+      "geometry": null
+    }
+  ]
+}
