@@ -44,8 +44,8 @@ For a comprehensive understanding of IMDF, refer to the [IMDF Documentation](htt
 - Initialize dictionaries with keys and values tailored for IMDF Geojson structures (reference point). Pre-defined values may be declared here.
 - Iterate through each feature in 'features' array for each QGIS Geojsons. Transform the feature with the established reference and append it to the respective dictionary's 'features' array.
 - Generate UUID for each feature
-- Reference building_ids, address_id and level_id for features that require references
-- Use Ray-Casting algorithm to determine which unit each anchor and amenity feature resides in, and map the them to the corresponding unit_id
+- Reference building_ids, address_id and level_id for applicable features
+- Use Ray-Casting algorithm (2D) to determine which unit each anchor and amenity feature resides in, and map the them to the corresponding unit_id
 - Compute the centre of unit features polygons, and set them as the display point (code was commented out as it was not crucial)
 - Compute the centre of opening features lines and set them as the display point
 - Generate occupant geojson by creating an occupant for each anchor feature and referencing them in anchor_id.
@@ -53,11 +53,11 @@ For a comprehensive understanding of IMDF, refer to the [IMDF Documentation](htt
 
 ## Limitations
 
-Right now the automation of mapping and referencing of IDs (eg referencing unit_ids in anchor and amenity features) is unable to distinguish which level the anchor/amenity is in. This is because geometries coordinates only consists of latitude and longitude but not elevation.
+Geometries coordinates consist of only longitude and latitude, but not altitude. The script is unable to automatically reference level_id in each unit feature, and unit_id in each anchor and amenity feature.
 
-As of now, one would have to run the script once for each level's units, anchors, occupants, etc, and subsequently combine all features into a final geojson file. Hence why a separate script was created for easier discernment, and QGIS geojsons are labelled according to which level they correspond to (see CPC4_QGIS_Geojsons).  Take caution that re-running scripts more than necessary will rewrite the UUID of every feature, which will cause conflict when referencing IDs for buildings, address, and levels.
+Consequently, one would have to run the script once for each level's units, anchors, occupants, etc, and subsequently combine all features into a final geojson file. Hence why a separate script was created for easier discernment, and QGIS geojsons are labelled according to which level they correspond to (see CPC4_QGIS_Geojsons).  A word of caution: re-running scripts more than necessary will rewrite the UUID of every feature each iteration, which will cause conflict when referencing IDs for buildings, address, and levels.
 
 ## Future Improvements
 - Automate the combination of features from different geojsons for each level into one master geojson file. 
-- To avoid having to run the script once for each level and its components, innovate a mechanism to accurately identify the level of the feature for referencing.
+- To avoid having to run the script once for each level and its components, innovate a mechanism to accurately identify the level of the features for referencing.
 
